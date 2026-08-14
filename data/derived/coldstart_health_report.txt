@@ -1,0 +1,60 @@
+COLD-START SERIES -- HEALTH REPORT
+==================================================
+Config: MIN_BASELINE_DAYS=30, MIN_PROMO_EVENTS=5, EVENT_GAP=1, SAME_DOW_MIN=4
+
+FUNNEL
+  total series                : 174685
+  ever promoted               : 139364
+  dropped: promo before t0    : 0
+  dropped: < 30 baseline days   : 27010
+  dropped: baseline median 0  : 0
+  dropped: < 5 promo events    : 28603
+  >>> SURVIVING candidates    : 83751
+
+  left-censored (flagged)     : 33878  (40.5% of survivors -- first record near dataset start, upstream history unknown)
+
+mu_i DISTRIBUTION (survivors)
+    min           : -0.9879
+    q25           : 0.0000
+    med           : 0.1667
+    q75           : 0.6333
+    max           : 114.1517
+    med_ci_width  : 0.7917
+
+FAMILY-INTERNAL mu_i DISPERSION  (the key Step-3 check:
+  do series WITHIN the same family spread out, or collapse to one blob?)
+    family                    n   mu_med   mu_std   mu_iqr
+    GROCERY I              28382    0.325    0.888    0.778
+    BEVERAGES              12938    0.333    1.074    1.000
+    CLEANING               9530    0.167    0.943    0.667
+    DAIRY                  6139    0.000    0.688    0.553
+    PRODUCE                5757   -0.056    1.564    0.483
+    PERSONAL CARE          3588    0.092    0.716    0.611
+    DELI                   2696    0.000    0.493    0.361
+    BREAD/BAKERY           2574    0.000    0.504    0.533
+    HOME CARE              2235    0.200    0.808    0.700
+    MEATS                  1614    0.115    0.860    0.502
+    POULTRY                1284    0.118    3.227    0.571
+    HOME AND KITCHEN I     1279    0.000    0.651    0.500
+    FROZEN FOODS           1242    0.016    0.530    0.396
+    LIQUOR,WINE,BEER       1067    0.200    0.874    0.625
+    EGGS                   1060    0.000    0.480    0.367
+    HOME AND KITCHEN II     416    0.000    0.767    0.500
+    PREPARED FOODS          382    0.000    0.481    0.500
+    CELEBRATION             303    0.000    0.333    0.000
+    SEAFOOD                 202    0.000    0.659    0.412
+    AUTOMOTIVE              198    0.000    0.411    0.250
+    BEAUTY                  165    0.000    0.440    0.500
+    GROCERY II              145    0.000    0.565    0.357
+    PET SUPPLIES            135    0.167    0.552    0.500
+    SCHOOL AND OFFICE SUPP  109    0.333    2.219    1.000
+    LADIESWEAR              104    0.000    0.412    0.500
+    LINGERIE                 88    0.000    0.502    0.500
+    PLAYERS AND ELECTRONIC   64    0.000    0.761    0.271
+    LAWN AND GARDEN          38    0.000    0.346    0.200
+    HARDWARE                  7    0.000    0.244    0.500
+    MAGAZINES                 7    0.000    0.378    0.000
+
+  READ: large mu_std / mu_iqr within a family = real cross-series magnitude
+        variation to test. If they collapse near 0, the magnitude task is
+        not present at this granularity -- stop before spending API budget.

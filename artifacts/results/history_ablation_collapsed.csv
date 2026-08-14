@@ -1,0 +1,1001 @@
+﻿task_id,store_nbr,item_nbr,hint_mode,history_condition,condition,family,mu_i_true,source_hint,injected_hint,prediction,n_parsed_repeats,prediction_repeat_sd,left_censored,ci_excludes_zero
+5_1489850,5,1489850,named_entity,original_history,named_entity__original_history,PRODUCE,-0.097,-0.58,,0.3,3,0.04714045207910318,False,True
+5_1489850,5,1489850,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.097,-0.58,,0.4,3,0.1247219128924647,False,True
+5_1489850,5,1489850,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.097,-0.58,,0.3,3,0.26246692913372704,False,True
+5_1489850,5,1489850,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.097,-0.58,,0.3,3,0.1247219128924647,False,True
+5_1489850,5,1489850,named_entity,no_history,named_entity__no_history,PRODUCE,-0.097,-0.58,,1.2,3,0.37712361663282534,False,True
+5_1489850,5,1489850,series_hint,original_history,series_hint__original_history,PRODUCE,-0.097,-0.58,-0.58,-0.6,3,0.0,False,True
+5_1489850,5,1489850,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.097,-0.58,-0.58,-0.6,3,0.0,False,True
+5_1489850,5,1489850,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.097,-0.58,-0.58,-0.6,3,0.0,False,True
+5_1489850,5,1489850,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.097,-0.58,-0.58,-0.6,3,0.04714045207910316,False,True
+5_1489850,5,1489850,series_hint,no_history,series_hint__no_history,PRODUCE,-0.097,-0.58,-0.58,-0.6,3,0.0,False,True
+41_584028,41,584028,named_entity,original_history,named_entity__original_history,MEATS,-0.0895,-0.51,,0.8,3,0.14142135623730953,True,True
+41_584028,41,584028,named_entity,shuffled_history,named_entity__shuffled_history,MEATS,-0.0895,-0.51,,0.8,3,0.16996731711975954,True,True
+41_584028,41,584028,named_entity,other_series_history,named_entity__other_series_history,MEATS,-0.0895,-0.51,,0.5,3,0.0,True,True
+41_584028,41,584028,named_entity,mean_only_history,named_entity__mean_only_history,MEATS,-0.0895,-0.51,,0.2,3,0.04714045207910316,True,True
+41_584028,41,584028,named_entity,no_history,named_entity__no_history,MEATS,-0.0895,-0.51,,1.2,3,1.0370899457402696,True,True
+41_584028,41,584028,series_hint,original_history,series_hint__original_history,MEATS,-0.0895,-0.51,-0.51,-0.5,3,0.0,True,True
+41_584028,41,584028,series_hint,shuffled_history,series_hint__shuffled_history,MEATS,-0.0895,-0.51,-0.51,-0.5,3,0.0,True,True
+41_584028,41,584028,series_hint,other_series_history,series_hint__other_series_history,MEATS,-0.0895,-0.51,-0.51,-0.5,3,0.0,True,True
+41_584028,41,584028,series_hint,mean_only_history,series_hint__mean_only_history,MEATS,-0.0895,-0.51,-0.51,-0.5,3,0.0,True,True
+41_584028,41,584028,series_hint,no_history,series_hint__no_history,MEATS,-0.0895,-0.51,-0.51,-0.5,3,0.0,True,True
+7_1473474,7,1473474,named_entity,original_history,named_entity__original_history,PRODUCE,-0.0852,0.66,,0.3,3,0.0,False,True
+7_1473474,7,1473474,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.0852,0.66,,0.3,3,0.04714045207910316,False,True
+7_1473474,7,1473474,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.0852,0.66,,0.3,3,0.04714045207910318,False,True
+7_1473474,7,1473474,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.0852,0.66,,0.0,3,0.0,False,True
+7_1473474,7,1473474,named_entity,no_history,named_entity__no_history,PRODUCE,-0.0852,0.66,,0.4,3,0.40276819911981904,False,True
+7_1473474,7,1473474,series_hint,original_history,series_hint__original_history,PRODUCE,-0.0852,0.66,0.66,0.7,3,0.0,False,True
+7_1473474,7,1473474,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.0852,0.66,0.66,0.7,3,0.18856180831641267,False,True
+7_1473474,7,1473474,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.0852,0.66,0.66,0.7,3,0.0,False,True
+7_1473474,7,1473474,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.0852,0.66,0.66,0.7,3,0.0,False,True
+7_1473474,7,1473474,series_hint,no_history,series_hint__no_history,PRODUCE,-0.0852,0.66,0.66,0.7,3,0.0,False,True
+45_1473428,45,1473428,named_entity,original_history,named_entity__original_history,PRODUCE,-0.0814,-0.9,,0.7,3,0.12472191289246473,False,True
+45_1473428,45,1473428,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.0814,-0.9,,0.8,3,0.04714045207910321,False,True
+45_1473428,45,1473428,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.0814,-0.9,,0.6,3,0.09428090415820632,False,True
+45_1473428,45,1473428,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.0814,-0.9,,0.3,3,0.0,False,True
+45_1473428,45,1473428,named_entity,no_history,named_entity__no_history,PRODUCE,-0.0814,-0.9,,0.4,3,0.40276819911981904,False,True
+45_1473428,45,1473428,series_hint,original_history,series_hint__original_history,PRODUCE,-0.0814,-0.9,-0.9,-0.9,3,0.0,False,True
+45_1473428,45,1473428,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.0814,-0.9,-0.9,-0.9,3,0.0,False,True
+45_1473428,45,1473428,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.0814,-0.9,-0.9,-0.9,3,0.0,False,True
+45_1473428,45,1473428,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.0814,-0.9,-0.9,-0.2,3,0.3299831645537222,False,True
+45_1473428,45,1473428,series_hint,no_history,series_hint__no_history,PRODUCE,-0.0814,-0.9,-0.9,-0.9,3,0.0,False,True
+27_1695835,27,1695835,named_entity,original_history,named_entity__original_history,PRODUCE,-0.0735,-0.9,,0.7,3,0.1699673171197595,False,True
+27_1695835,27,1695835,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.0735,-0.9,,0.7,3,0.20548046676563256,False,True
+27_1695835,27,1695835,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.0735,-0.9,,0.3,3,0.0,False,True
+27_1695835,27,1695835,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.0735,-0.9,,0.0,3,0.0,False,True
+27_1695835,27,1695835,named_entity,no_history,named_entity__no_history,PRODUCE,-0.0735,-0.9,,0.3,3,0.4242640687119285,False,True
+27_1695835,27,1695835,series_hint,original_history,series_hint__original_history,PRODUCE,-0.0735,-0.9,-0.9,-0.9,3,0.0,False,True
+27_1695835,27,1695835,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.0735,-0.9,-0.9,-0.9,3,0.0,False,True
+27_1695835,27,1695835,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.0735,-0.9,-0.9,-0.9,3,0.0,False,True
+27_1695835,27,1695835,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.0735,-0.9,-0.9,-0.9,3,0.0,False,True
+27_1695835,27,1695835,series_hint,no_history,series_hint__no_history,PRODUCE,-0.0735,-0.9,-0.9,-0.9,3,0.0,False,True
+38_1906099,38,1906099,named_entity,original_history,named_entity__original_history,PRODUCE,-0.0667,-0.07,,1.5,3,0.3299831645537222,False,True
+38_1906099,38,1906099,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.0667,-0.07,,1.5,3,0.4714045207910317,False,True
+38_1906099,38,1906099,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.0667,-0.07,,1.5,3,0.42426406871192845,False,True
+38_1906099,38,1906099,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.0667,-0.07,,0.5,3,0.0,False,True
+38_1906099,38,1906099,named_entity,no_history,named_entity__no_history,PRODUCE,-0.0667,-0.07,,1.5,3,0.0,False,True
+38_1906099,38,1906099,series_hint,original_history,series_hint__original_history,PRODUCE,-0.0667,-0.07,-0.07,-0.1,3,0.0,False,True
+38_1906099,38,1906099,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.0667,-0.07,-0.07,-0.1,3,0.0,False,True
+38_1906099,38,1906099,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.0667,-0.07,-0.07,-0.1,3,0.04714045207910317,False,True
+38_1906099,38,1906099,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.0667,-0.07,-0.07,-0.1,3,0.0,False,True
+38_1906099,38,1906099,series_hint,no_history,series_hint__no_history,PRODUCE,-0.0667,-0.07,-0.07,-0.1,3,0.0,False,True
+26_582864,26,582864,named_entity,original_history,named_entity__original_history,MEATS,-0.0616,-0.17,,0.8,3,0.26246692913372704,True,True
+26_582864,26,582864,named_entity,shuffled_history,named_entity__shuffled_history,MEATS,-0.0616,-0.17,,0.5,3,0.20548046676563259,True,True
+26_582864,26,582864,named_entity,other_series_history,named_entity__other_series_history,MEATS,-0.0616,-0.17,,0.8,3,0.16996731711975951,True,True
+26_582864,26,582864,named_entity,mean_only_history,named_entity__mean_only_history,MEATS,-0.0616,-0.17,,0.5,3,0.0,True,True
+26_582864,26,582864,named_entity,no_history,named_entity__no_history,MEATS,-0.0616,-0.17,,1.3,3,1.0614455552060438,True,True
+26_582864,26,582864,series_hint,original_history,series_hint__original_history,MEATS,-0.0616,-0.17,-0.17,-0.2,3,0.0,True,True
+26_582864,26,582864,series_hint,shuffled_history,series_hint__shuffled_history,MEATS,-0.0616,-0.17,-0.17,-0.2,3,0.0,True,True
+26_582864,26,582864,series_hint,other_series_history,series_hint__other_series_history,MEATS,-0.0616,-0.17,-0.17,-0.2,3,0.0,True,True
+26_582864,26,582864,series_hint,mean_only_history,series_hint__mean_only_history,MEATS,-0.0616,-0.17,-0.17,-0.1,3,0.04714045207910317,True,True
+26_582864,26,582864,series_hint,no_history,series_hint__no_history,MEATS,-0.0616,-0.17,-0.17,-0.2,3,0.0,True,True
+47_1696007,47,1696007,named_entity,original_history,named_entity__original_history,PRODUCE,-0.0612,-0.52,,0.6,3,0.09428090415820632,False,True
+47_1696007,47,1696007,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.0612,-0.52,,0.6,3,0.09428090415820632,False,True
+47_1696007,47,1696007,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.0612,-0.52,,0.6,3,0.1414213562373095,False,True
+47_1696007,47,1696007,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.0612,-0.52,,0.3,3,0.37416573867739417,False,True
+47_1696007,47,1696007,named_entity,no_history,named_entity__no_history,PRODUCE,-0.0612,-0.52,,0.4,3,0.44969125210773475,False,True
+47_1696007,47,1696007,series_hint,original_history,series_hint__original_history,PRODUCE,-0.0612,-0.52,-0.52,-0.5,3,0.09428090415820634,False,True
+47_1696007,47,1696007,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.0612,-0.52,-0.52,-0.5,3,0.0,False,True
+47_1696007,47,1696007,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.0612,-0.52,-0.52,-0.5,3,0.1414213562373095,False,True
+47_1696007,47,1696007,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.0612,-0.52,-0.52,-0.5,3,0.0,False,True
+47_1696007,47,1696007,series_hint,no_history,series_hint__no_history,PRODUCE,-0.0612,-0.52,-0.52,-0.5,3,0.0,False,True
+24_1751174,24,1751174,named_entity,original_history,named_entity__original_history,PRODUCE,-0.0538,-0.25,,0.3,3,0.09428090415820634,False,True
+24_1751174,24,1751174,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,-0.0538,-0.25,,0.3,3,0.18856180831641267,False,True
+24_1751174,24,1751174,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,-0.0538,-0.25,,0.7,3,0.4714045207910317,False,True
+24_1751174,24,1751174,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,-0.0538,-0.25,,0.058,3,0.0,False,True
+24_1751174,24,1751174,named_entity,no_history,named_entity__no_history,PRODUCE,-0.0538,-0.25,,1.2,3,0.9030811456096044,False,True
+24_1751174,24,1751174,series_hint,original_history,series_hint__original_history,PRODUCE,-0.0538,-0.25,-0.25,-0.3,3,0.0,False,True
+24_1751174,24,1751174,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,-0.0538,-0.25,-0.25,-0.3,3,0.0,False,True
+24_1751174,24,1751174,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,-0.0538,-0.25,-0.25,-0.3,3,0.0,False,True
+24_1751174,24,1751174,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,-0.0538,-0.25,-0.25,-0.1,3,0.18856180831641267,False,True
+24_1751174,24,1751174,series_hint,no_history,series_hint__no_history,PRODUCE,-0.0538,-0.25,-0.25,-0.3,3,0.0,False,True
+48_584028,48,584028,named_entity,original_history,named_entity__original_history,MEATS,-0.0459,0.83,,0.4,3,0.09428090415820632,True,True
+48_584028,48,584028,named_entity,shuffled_history,named_entity__shuffled_history,MEATS,-0.0459,0.83,,0.3,3,0.04714045207910318,True,True
+48_584028,48,584028,named_entity,other_series_history,named_entity__other_series_history,MEATS,-0.0459,0.83,,1.3,3,0.0,True,True
+48_584028,48,584028,named_entity,mean_only_history,named_entity__mean_only_history,MEATS,-0.0459,0.83,,0.2,3,0.0816496580927726,True,True
+48_584028,48,584028,named_entity,no_history,named_entity__no_history,MEATS,-0.0459,0.83,,1.2,3,0.0,True,True
+48_584028,48,584028,series_hint,original_history,series_hint__original_history,MEATS,-0.0459,0.83,0.83,0.8,3,0.0,True,True
+48_584028,48,584028,series_hint,shuffled_history,series_hint__shuffled_history,MEATS,-0.0459,0.83,0.83,0.8,3,0.04714045207910321,True,True
+48_584028,48,584028,series_hint,other_series_history,series_hint__other_series_history,MEATS,-0.0459,0.83,0.83,0.8,3,0.4714045207910317,True,True
+48_584028,48,584028,series_hint,mean_only_history,series_hint__mean_only_history,MEATS,-0.0459,0.83,0.83,0.1,3,0.0,True,True
+48_584028,48,584028,series_hint,no_history,series_hint__no_history,MEATS,-0.0459,0.83,0.83,0.8,3,0.0,True,True
+27_1642401,27,1642401,named_entity,original_history,named_entity__original_history,PRODUCE,0.0588,0.09,,0.4,3,0.1699673171197595,False,True
+27_1642401,27,1642401,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.0588,0.09,,0.5,3,0.1632993161855452,False,True
+27_1642401,27,1642401,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.0588,0.09,,0.4,3,0.09428090415820632,False,True
+27_1642401,27,1642401,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.0588,0.09,,0.3,3,0.08164965809277261,False,True
+27_1642401,27,1642401,named_entity,no_history,named_entity__no_history,PRODUCE,0.0588,0.09,,1.3,3,0.5249338582674541,False,True
+27_1642401,27,1642401,series_hint,original_history,series_hint__original_history,PRODUCE,0.0588,0.09,0.09,0.1,3,0.004714045207910321,False,True
+27_1642401,27,1642401,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.0588,0.09,0.09,0.1,3,0.0,False,True
+27_1642401,27,1642401,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.0588,0.09,0.09,0.1,3,0.09428090415820634,False,True
+27_1642401,27,1642401,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.0588,0.09,0.09,-0.2,3,0.1414213562373095,False,True
+27_1642401,27,1642401,series_hint,no_history,series_hint__no_history,PRODUCE,0.0588,0.09,0.09,0.1,3,0.0,False,True
+40_1489868,40,1489868,named_entity,original_history,named_entity__original_history,PRODUCE,0.0667,-0.9,,0.5,3,0.0,False,True
+40_1489868,40,1489868,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.0667,-0.9,,0.5,3,0.0,False,True
+40_1489868,40,1489868,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.0667,-0.9,,0.5,3,0.08164965809277258,False,True
+40_1489868,40,1489868,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.0667,-0.9,,0.2,3,0.0,False,True
+40_1489868,40,1489868,named_entity,no_history,named_entity__no_history,PRODUCE,0.0667,-0.9,,1.5,3,0.14142135623730953,False,True
+40_1489868,40,1489868,series_hint,original_history,series_hint__original_history,PRODUCE,0.0667,-0.9,-0.9,-0.9,3,0.0,False,True
+40_1489868,40,1489868,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.0667,-0.9,-0.9,-0.9,3,0.0,False,True
+40_1489868,40,1489868,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.0667,-0.9,-0.9,-0.9,3,0.0,False,True
+40_1489868,40,1489868,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.0667,-0.9,-0.9,-0.9,3,0.0,False,True
+40_1489868,40,1489868,series_hint,no_history,series_hint__no_history,PRODUCE,0.0667,-0.9,-0.9,-0.9,3,0.0,False,True
+30_1473474,30,1473474,named_entity,original_history,named_entity__original_history,PRODUCE,0.0768,-0.9,,0.3,3,0.04714045207910316,False,True
+30_1473474,30,1473474,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.0768,-0.9,,0.3,3,0.1247219128924647,False,True
+30_1473474,30,1473474,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.0768,-0.9,,1.2,3,0.14142135623730953,False,True
+30_1473474,30,1473474,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.0768,-0.9,,0.5,3,0.1414213562373095,False,True
+30_1473474,30,1473474,named_entity,no_history,named_entity__no_history,PRODUCE,0.0768,-0.9,,0.4,3,0.40276819911981904,False,True
+30_1473474,30,1473474,series_hint,original_history,series_hint__original_history,PRODUCE,0.0768,-0.9,-0.9,-0.9,3,0.0,False,True
+30_1473474,30,1473474,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.0768,-0.9,-0.9,-0.9,3,0.0,False,True
+30_1473474,30,1473474,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.0768,-0.9,-0.9,-0.9,3,0.0,False,True
+30_1473474,30,1473474,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.0768,-0.9,-0.9,-0.9,3,0.0,False,True
+30_1473474,30,1473474,series_hint,no_history,series_hint__no_history,PRODUCE,0.0768,-0.9,-0.9,-0.9,3,0.0,False,True
+47_1239860,47,1239860,named_entity,original_history,named_entity__original_history,POULTRY,0.0862,0.07,,0.7,3,0.1699673171197595,False,True
+47_1239860,47,1239860,named_entity,shuffled_history,named_entity__shuffled_history,POULTRY,0.0862,0.07,,0.5,3,0.24944382578492943,False,True
+47_1239860,47,1239860,named_entity,other_series_history,named_entity__other_series_history,POULTRY,0.0862,0.07,,0.5,3,0.4714045207910317,False,True
+47_1239860,47,1239860,named_entity,mean_only_history,named_entity__mean_only_history,POULTRY,0.0862,0.07,,0.1,3,0.0,False,True
+47_1239860,47,1239860,named_entity,no_history,named_entity__no_history,POULTRY,0.0862,0.07,,0.7,3,0.3681787005729087,False,True
+47_1239860,47,1239860,series_hint,original_history,series_hint__original_history,POULTRY,0.0862,0.07,0.07,0.1,3,0.282842712474619,False,True
+47_1239860,47,1239860,series_hint,shuffled_history,series_hint__shuffled_history,POULTRY,0.0862,0.07,0.07,0.5,3,0.2494438257849294,False,True
+47_1239860,47,1239860,series_hint,other_series_history,series_hint__other_series_history,POULTRY,0.0862,0.07,0.07,0.1,3,0.0,False,True
+47_1239860,47,1239860,series_hint,mean_only_history,series_hint__mean_only_history,POULTRY,0.0862,0.07,0.07,0.1,3,0.282842712474619,False,True
+47_1239860,47,1239860,series_hint,no_history,series_hint__no_history,POULTRY,0.0862,0.07,0.07,0.1,3,0.0,False,True
+39_1473403,39,1473403,named_entity,original_history,named_entity__original_history,PRODUCE,0.0883,0.13,,0.4,3,0.14142135623730948,False,True
+39_1473403,39,1473403,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.0883,0.13,,0.4,3,0.14142135623730948,False,True
+39_1473403,39,1473403,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.0883,0.13,,0.3,3,0.04714045207910316,False,True
+39_1473403,39,1473403,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.0883,0.13,,0.2,3,0.0,False,True
+39_1473403,39,1473403,named_entity,no_history,named_entity__no_history,PRODUCE,0.0883,0.13,,1.0,3,0.339934634239519,False,True
+39_1473403,39,1473403,series_hint,original_history,series_hint__original_history,PRODUCE,0.0883,0.13,0.13,0.3,3,0.09428090415820634,False,True
+39_1473403,39,1473403,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.0883,0.13,0.13,0.3,3,0.04714045207910318,False,True
+39_1473403,39,1473403,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.0883,0.13,0.13,0.1,3,0.1414213562373095,False,True
+39_1473403,39,1473403,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.0883,0.13,0.13,0.2,3,0.0,False,True
+39_1473403,39,1473403,series_hint,no_history,series_hint__no_history,PRODUCE,0.0883,0.13,0.13,0.1,3,0.0,False,True
+31_1473394,31,1473394,named_entity,original_history,named_entity__original_history,PRODUCE,0.0896,-0.9,,0.7,3,0.04714045207910321,False,True
+31_1473394,31,1473394,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.0896,-0.9,,0.8,3,0.09428090415820632,False,True
+31_1473394,31,1473394,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.0896,-0.9,,0.3,3,0.04714045207910316,False,True
+31_1473394,31,1473394,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.0896,-0.9,,1.2,3,0.49665548085837796,False,True
+31_1473394,31,1473394,named_entity,no_history,named_entity__no_history,PRODUCE,0.0896,-0.9,,1.5,3,1.3199326582148887,False,True
+31_1473394,31,1473394,series_hint,original_history,series_hint__original_history,PRODUCE,0.0896,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473394,31,1473394,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.0896,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473394,31,1473394,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.0896,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473394,31,1473394,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.0896,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473394,31,1473394,series_hint,no_history,series_hint__no_history,PRODUCE,0.0896,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1489850,31,1489850,named_entity,original_history,named_entity__original_history,PRODUCE,0.0943,-0.57,,0.6,3,0.18856180831641267,False,True
+31_1489850,31,1489850,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.0943,-0.57,,0.6,3,0.5887840577551898,False,True
+31_1489850,31,1489850,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.0943,-0.57,,0.8,3,0.23570226039551587,False,True
+31_1489850,31,1489850,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.0943,-0.57,,0.2,3,0.0,False,True
+31_1489850,31,1489850,named_entity,no_history,named_entity__no_history,PRODUCE,0.0943,-0.57,,2.3,3,0.9392668535736914,False,True
+31_1489850,31,1489850,series_hint,original_history,series_hint__original_history,PRODUCE,0.0943,-0.57,-0.57,-0.6,3,0.04714045207910316,False,True
+31_1489850,31,1489850,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.0943,-0.57,-0.57,-0.6,3,0.0,False,True
+31_1489850,31,1489850,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.0943,-0.57,-0.57,-0.6,3,0.0,False,True
+31_1489850,31,1489850,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.0943,-0.57,-0.57,-0.6,3,0.1414213562373095,False,True
+31_1489850,31,1489850,series_hint,no_history,series_hint__no_history,PRODUCE,0.0943,-0.57,-0.57,-0.6,3,0.0,False,True
+47_584026,47,584026,named_entity,original_history,named_entity__original_history,MEATS,0.1057,-0.9,,0.6,3,0.1414213562373095,True,True
+47_584026,47,584026,named_entity,shuffled_history,named_entity__shuffled_history,MEATS,0.1057,-0.9,,0.8,3,0.26246692913372704,True,True
+47_584026,47,584026,named_entity,other_series_history,named_entity__other_series_history,MEATS,0.1057,-0.9,,0.5,3,0.14142135623730953,True,True
+47_584026,47,584026,named_entity,mean_only_history,named_entity__mean_only_history,MEATS,0.1057,-0.9,,0.3,3,0.1247219128924647,True,True
+47_584026,47,584026,named_entity,no_history,named_entity__no_history,MEATS,0.1057,-0.9,,2.5,3,0.941629792788369,True,True
+47_584026,47,584026,series_hint,original_history,series_hint__original_history,MEATS,0.1057,-0.9,-0.9,-0.9,3,0.0,True,True
+47_584026,47,584026,series_hint,shuffled_history,series_hint__shuffled_history,MEATS,0.1057,-0.9,-0.9,-0.9,3,0.0,True,True
+47_584026,47,584026,series_hint,other_series_history,series_hint__other_series_history,MEATS,0.1057,-0.9,-0.9,-0.9,3,0.0,True,True
+47_584026,47,584026,series_hint,mean_only_history,series_hint__mean_only_history,MEATS,0.1057,-0.9,-0.9,-0.9,3,0.0,True,True
+47_584026,47,584026,series_hint,no_history,series_hint__no_history,MEATS,0.1057,-0.9,-0.9,-0.9,3,0.0,True,True
+20_378685,20,378685,named_entity,original_history,named_entity__original_history,DAIRY,0.1111,0.39,,1.7,3,0.3299831645537222,False,True
+20_378685,20,378685,named_entity,shuffled_history,named_entity__shuffled_history,DAIRY,0.1111,0.39,,0.9,3,0.0,False,True
+20_378685,20,378685,named_entity,other_series_history,named_entity__other_series_history,DAIRY,0.1111,0.39,,1.0,3,0.9428090415820634,False,True
+20_378685,20,378685,named_entity,mean_only_history,named_entity__mean_only_history,DAIRY,0.1111,0.39,,0.4,3,0.08164965809277261,False,True
+20_378685,20,378685,named_entity,no_history,named_entity__no_history,DAIRY,0.1111,0.39,,0.8,3,0.4921607686744467,False,True
+20_378685,20,378685,series_hint,original_history,series_hint__original_history,DAIRY,0.1111,0.39,0.39,0.4,3,0.0,False,True
+20_378685,20,378685,series_hint,shuffled_history,series_hint__shuffled_history,DAIRY,0.1111,0.39,0.39,0.4,3,0.0,False,True
+20_378685,20,378685,series_hint,other_series_history,series_hint__other_series_history,DAIRY,0.1111,0.39,0.39,0.4,3,1.2256517540566825,False,True
+20_378685,20,378685,series_hint,mean_only_history,series_hint__mean_only_history,DAIRY,0.1111,0.39,0.39,0.4,3,0.0,False,True
+20_378685,20,378685,series_hint,no_history,series_hint__no_history,DAIRY,0.1111,0.39,0.39,0.4,3,0.0,False,True
+6_583868,6,583868,named_entity,original_history,named_entity__original_history,MEATS,0.1118,1.31,,0.7,3,0.04714045207910316,True,True
+6_583868,6,583868,named_entity,shuffled_history,named_entity__shuffled_history,MEATS,0.1118,1.31,,0.6,3,0.09428090415820636,True,True
+6_583868,6,583868,named_entity,other_series_history,named_entity__other_series_history,MEATS,0.1118,1.31,,0.5,3,0.23570226039551584,True,True
+6_583868,6,583868,named_entity,mean_only_history,named_entity__mean_only_history,MEATS,0.1118,1.31,,0.5,3,0.7542472332656507,True,True
+6_583868,6,583868,named_entity,no_history,named_entity__no_history,MEATS,0.1118,1.31,,1.2,3,1.0842303978193728,True,True
+6_583868,6,583868,series_hint,original_history,series_hint__original_history,MEATS,0.1118,1.31,1.31,1.3,3,0.47140452079103173,True,True
+6_583868,6,583868,series_hint,shuffled_history,series_hint__shuffled_history,MEATS,0.1118,1.31,1.31,1.3,3,0.47140452079103173,True,True
+6_583868,6,583868,series_hint,other_series_history,series_hint__other_series_history,MEATS,0.1118,1.31,1.31,1.3,3,0.0,True,True
+6_583868,6,583868,series_hint,mean_only_history,series_hint__mean_only_history,MEATS,0.1118,1.31,1.31,1.3,3,0.18856180831641267,True,True
+6_583868,6,583868,series_hint,no_history,series_hint__no_history,MEATS,0.1118,1.31,1.31,1.3,3,0.47140452079103173,True,True
+45_1018878,45,1018878,named_entity,original_history,named_entity__original_history,DAIRY,0.12,0.81,,0.5,3,0.0,True,True
+45_1018878,45,1018878,named_entity,shuffled_history,named_entity__shuffled_history,DAIRY,0.12,0.81,,0.7,3,0.43204937989385733,True,True
+45_1018878,45,1018878,named_entity,other_series_history,named_entity__other_series_history,DAIRY,0.12,0.81,,2.0,3,0.3299831645537222,True,True
+45_1018878,45,1018878,named_entity,mean_only_history,named_entity__mean_only_history,DAIRY,0.12,0.81,,0.2,3,0.0,True,True
+45_1018878,45,1018878,named_entity,no_history,named_entity__no_history,DAIRY,0.12,0.81,,0.7,3,0.49888765156985887,True,True
+45_1018878,45,1018878,series_hint,original_history,series_hint__original_history,DAIRY,0.12,0.81,0.81,0.8,3,0.0,True,True
+45_1018878,45,1018878,series_hint,shuffled_history,series_hint__shuffled_history,DAIRY,0.12,0.81,0.81,0.8,3,0.0,True,True
+45_1018878,45,1018878,series_hint,other_series_history,series_hint__other_series_history,DAIRY,0.12,0.81,0.81,0.8,3,0.0,True,True
+45_1018878,45,1018878,series_hint,mean_only_history,series_hint__mean_only_history,DAIRY,0.12,0.81,0.81,0.8,3,0.282842712474619,True,True
+45_1018878,45,1018878,series_hint,no_history,series_hint__no_history,DAIRY,0.12,0.81,0.81,0.8,3,0.0,True,True
+7_1751176,7,1751176,named_entity,original_history,named_entity__original_history,PRODUCE,0.122,-0.44,,0.6,3,0.09428090415820632,False,True
+7_1751176,7,1751176,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.122,-0.44,,0.6,3,0.12472191289246469,False,True
+7_1751176,7,1751176,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.122,-0.44,,0.7,3,0.14142135623730948,False,True
+7_1751176,7,1751176,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.122,-0.44,,0.3,3,0.0,False,True
+7_1751176,7,1751176,named_entity,no_history,named_entity__no_history,PRODUCE,0.122,-0.44,,1.2,3,0.3299831645537222,False,True
+7_1751176,7,1751176,series_hint,original_history,series_hint__original_history,PRODUCE,0.122,-0.44,-0.44,-0.4,3,0.0,False,True
+7_1751176,7,1751176,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.122,-0.44,-0.44,-0.4,3,0.0,False,True
+7_1751176,7,1751176,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.122,-0.44,-0.44,-0.4,3,0.0,False,True
+7_1751176,7,1751176,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.122,-0.44,-0.44,-0.4,3,0.0,False,True
+7_1751176,7,1751176,series_hint,no_history,series_hint__no_history,PRODUCE,0.122,-0.44,-0.44,-0.4,3,0.0,False,True
+46_418026,46,418026,named_entity,original_history,named_entity__original_history,DELI,0.125,-0.9,,0.6,3,0.04714045207910316,True,True
+46_418026,46,418026,named_entity,shuffled_history,named_entity__shuffled_history,DELI,0.125,-0.9,,0.7,3,0.3091206165165235,True,True
+46_418026,46,418026,named_entity,other_series_history,named_entity__other_series_history,DELI,0.125,-0.9,,0.9,3,0.6018490028422596,True,True
+46_418026,46,418026,named_entity,mean_only_history,named_entity__mean_only_history,DELI,0.125,-0.9,,0.3,3,0.0,True,True
+46_418026,46,418026,named_entity,no_history,named_entity__no_history,DELI,0.125,-0.9,,1.5,3,0.565685424949238,True,True
+46_418026,46,418026,series_hint,original_history,series_hint__original_history,DELI,0.125,-0.9,-0.9,-0.9,3,0.0,True,True
+46_418026,46,418026,series_hint,shuffled_history,series_hint__shuffled_history,DELI,0.125,-0.9,-0.9,-0.9,3,0.0,True,True
+46_418026,46,418026,series_hint,other_series_history,series_hint__other_series_history,DELI,0.125,-0.9,-0.9,-0.9,3,0.0,True,True
+46_418026,46,418026,series_hint,mean_only_history,series_hint__mean_only_history,DELI,0.125,-0.9,-0.9,-0.9,3,0.04714045207910316,True,True
+46_418026,46,418026,series_hint,no_history,series_hint__no_history,DELI,0.125,-0.9,-0.9,-0.9,3,0.0,True,True
+31_1473482,31,1473482,named_entity,original_history,named_entity__original_history,PRODUCE,0.126,-0.9,,1.4,3,0.648074069840786,False,True
+31_1473482,31,1473482,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.126,-0.9,,1.2,3,0.29439202887759486,False,True
+31_1473482,31,1473482,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.126,-0.9,,0.3,3,0.1699673171197595,False,True
+31_1473482,31,1473482,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.126,-0.9,,0.2,3,0.0,False,True
+31_1473482,31,1473482,named_entity,no_history,named_entity__no_history,PRODUCE,0.126,-0.9,,1.2,3,0.5354126134736337,False,True
+31_1473482,31,1473482,series_hint,original_history,series_hint__original_history,PRODUCE,0.126,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473482,31,1473482,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.126,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473482,31,1473482,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.126,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473482,31,1473482,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.126,-0.9,-0.9,-0.9,3,0.0,False,True
+31_1473482,31,1473482,series_hint,no_history,series_hint__no_history,PRODUCE,0.126,-0.9,-0.9,-0.9,3,0.0,False,True
+3_1751175,3,1751175,named_entity,original_history,named_entity__original_history,PRODUCE,0.13,0.41,,0.3,3,0.0,False,True
+3_1751175,3,1751175,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.13,0.41,,0.3,3,0.0,False,True
+3_1751175,3,1751175,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.13,0.41,,1.0,3,0.4921607686744467,False,True
+3_1751175,3,1751175,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.13,0.41,,0.054,3,0.02268626603623141,False,True
+3_1751175,3,1751175,named_entity,no_history,named_entity__no_history,PRODUCE,0.13,0.41,,0.7,3,0.3681787005729087,False,True
+3_1751175,3,1751175,series_hint,original_history,series_hint__original_history,PRODUCE,0.13,0.41,0.41,0.4,3,0.0,False,True
+3_1751175,3,1751175,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.13,0.41,0.41,0.4,3,0.04714045207910316,False,True
+3_1751175,3,1751175,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.13,0.41,0.41,0.4,3,0.0,False,True
+3_1751175,3,1751175,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.13,0.41,0.41,0.5,3,0.0,False,True
+3_1751175,3,1751175,series_hint,no_history,series_hint__no_history,PRODUCE,0.13,0.41,0.41,0.4,3,0.0,False,True
+50_634015,50,634015,named_entity,original_history,named_entity__original_history,MEATS,0.1338,1.99,,0.6,3,0.1699673171197595,True,True
+50_634015,50,634015,named_entity,shuffled_history,named_entity__shuffled_history,MEATS,0.1338,1.99,,0.6,3,0.1699673171197595,True,True
+50_634015,50,634015,named_entity,other_series_history,named_entity__other_series_history,MEATS,0.1338,1.99,,1.0,3,0.23570226039551584,True,True
+50_634015,50,634015,named_entity,mean_only_history,named_entity__mean_only_history,MEATS,0.1338,1.99,,0.5,3,0.09428090415820634,True,True
+50_634015,50,634015,named_entity,no_history,named_entity__no_history,MEATS,0.1338,1.99,,3.0,3,0.9416297927883689,True,True
+50_634015,50,634015,series_hint,original_history,series_hint__original_history,MEATS,0.1338,1.99,1.99,1.0,3,0.4666904755831214,True,True
+50_634015,50,634015,series_hint,shuffled_history,series_hint__shuffled_history,MEATS,0.1338,1.99,1.99,1.0,3,0.4666904755831214,True,True
+50_634015,50,634015,series_hint,other_series_history,series_hint__other_series_history,MEATS,0.1338,1.99,1.99,1.0,3,0.0,True,True
+50_634015,50,634015,series_hint,mean_only_history,series_hint__mean_only_history,MEATS,0.1338,1.99,1.99,1.0,3,0.37712361663282534,True,True
+50_634015,50,634015,series_hint,no_history,series_hint__no_history,MEATS,0.1338,1.99,1.99,1.0,3,0.0,True,True
+7_1502392,7,1502392,named_entity,original_history,named_entity__original_history,PRODUCE,0.1383,1.06,,0.3,3,0.04714045207910318,False,True
+7_1502392,7,1502392,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.1383,1.06,,0.4,3,0.04714045207910318,False,True
+7_1502392,7,1502392,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.1383,1.06,,0.6,3,0.09428090415820632,False,True
+7_1502392,7,1502392,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.1383,1.06,,0.7,3,0.282842712474619,False,True
+7_1502392,7,1502392,named_entity,no_history,named_entity__no_history,PRODUCE,0.1383,1.06,,0.4,3,0.40276819911981904,False,True
+7_1502392,7,1502392,series_hint,original_history,series_hint__original_history,PRODUCE,0.1383,1.06,1.06,1.1,3,0.47140452079103173,False,True
+7_1502392,7,1502392,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.1383,1.06,1.06,0.7,3,0.32659863237109044,False,True
+7_1502392,7,1502392,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.1383,1.06,1.06,0.4,3,0.41899350299921784,False,True
+7_1502392,7,1502392,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.1383,1.06,1.06,0.1,3,0.0,False,True
+7_1502392,7,1502392,series_hint,no_history,series_hint__no_history,PRODUCE,0.1383,1.06,1.06,0.1,3,0.47140452079103173,False,True
+45_108698,45,108698,named_entity,original_history,named_entity__original_history,DELI,0.1429,0.2,,0.6,3,0.339934634239519,True,True
+45_108698,45,108698,named_entity,shuffled_history,named_entity__shuffled_history,DELI,0.1429,0.2,,0.6,3,0.09428090415820632,True,True
+45_108698,45,108698,named_entity,other_series_history,named_entity__other_series_history,DELI,0.1429,0.2,,0.6,3,0.12472191289246473,True,True
+45_108698,45,108698,named_entity,mean_only_history,named_entity__mean_only_history,DELI,0.1429,0.2,,0.2,3,0.0,True,True
+45_108698,45,108698,named_entity,no_history,named_entity__no_history,DELI,0.1429,0.2,,1.3,3,0.12472191289246473,True,True
+45_108698,45,108698,series_hint,original_history,series_hint__original_history,DELI,0.1429,0.2,0.2,0.2,3,0.0,True,True
+45_108698,45,108698,series_hint,shuffled_history,series_hint__shuffled_history,DELI,0.1429,0.2,0.2,0.2,3,0.37712361663282534,True,True
+45_108698,45,108698,series_hint,other_series_history,series_hint__other_series_history,DELI,0.1429,0.2,0.2,0.2,3,0.0,True,True
+45_108698,45,108698,series_hint,mean_only_history,series_hint__mean_only_history,DELI,0.1429,0.2,0.2,0.2,3,0.0,True,True
+45_108698,45,108698,series_hint,no_history,series_hint__no_history,DELI,0.1429,0.2,0.2,0.2,3,0.0,True,True
+8_1239852,8,1239852,named_entity,original_history,named_entity__original_history,POULTRY,0.1471,-0.25,,0.9,3,0.282842712474619,False,True
+8_1239852,8,1239852,named_entity,shuffled_history,named_entity__shuffled_history,POULTRY,0.1471,-0.25,,0.7,3,0.3091206165165235,False,True
+8_1239852,8,1239852,named_entity,other_series_history,named_entity__other_series_history,POULTRY,0.1471,-0.25,,0.8,3,0.0,False,True
+8_1239852,8,1239852,named_entity,mean_only_history,named_entity__mean_only_history,POULTRY,0.1471,-0.25,,0.5,3,0.1247219128924647,False,True
+8_1239852,8,1239852,named_entity,no_history,named_entity__no_history,POULTRY,0.1471,-0.25,,0.7,3,0.408248290463863,False,True
+8_1239852,8,1239852,series_hint,original_history,series_hint__original_history,POULTRY,0.1471,-0.25,-0.25,-0.3,3,0.0,False,True
+8_1239852,8,1239852,series_hint,shuffled_history,series_hint__shuffled_history,POULTRY,0.1471,-0.25,-0.25,-0.3,3,0.04714045207910316,False,True
+8_1239852,8,1239852,series_hint,other_series_history,series_hint__other_series_history,POULTRY,0.1471,-0.25,-0.25,-0.3,3,0.0,False,True
+8_1239852,8,1239852,series_hint,mean_only_history,series_hint__mean_only_history,POULTRY,0.1471,-0.25,-0.25,-0.2,3,0.0,False,True
+8_1239852,8,1239852,series_hint,no_history,series_hint__no_history,POULTRY,0.1471,-0.25,-0.25,-0.3,3,0.04714045207910316,False,True
+45_1489899,45,1489899,named_entity,original_history,named_entity__original_history,PRODUCE,0.1489,1.74,,0.8,3,0.0,False,True
+45_1489899,45,1489899,named_entity,shuffled_history,named_entity__shuffled_history,PRODUCE,0.1489,1.74,,0.8,3,0.0,False,True
+45_1489899,45,1489899,named_entity,other_series_history,named_entity__other_series_history,PRODUCE,0.1489,1.74,,0.4,3,0.1247219128924647,False,True
+45_1489899,45,1489899,named_entity,mean_only_history,named_entity__mean_only_history,PRODUCE,0.1489,1.74,,0.1,3,0.0,False,True
+45_1489899,45,1489899,named_entity,no_history,named_entity__no_history,PRODUCE,0.1489,1.74,,0.4,3,0.40276819911981904,False,True
+45_1489899,45,1489899,series_hint,original_history,series_hint__original_history,PRODUCE,0.1489,1.74,1.74,1.7,3,0.0,False,True
+45_1489899,45,1489899,series_hint,shuffled_history,series_hint__shuffled_history,PRODUCE,0.1489,1.74,1.74,1.7,3,0.23570226039551584,False,True
+45_1489899,45,1489899,series_hint,other_series_history,series_hint__other_series_history,PRODUCE,0.1489,1.74,1.74,1.7,3,0.0,False,True
+45_1489899,45,1489899,series_hint,mean_only_history,series_hint__mean_only_history,PRODUCE,0.1489,1.74,1.74,1.7,3,0.28284271247461895,False,True
+45_1489899,45,1489899,series_hint,no_history,series_hint__no_history,PRODUCE,0.1489,1.74,1.74,1.7,3,0.4714045207910317,False,True
+4_771156,4,771156,named_entity,original_history,named_entity__original_history,CLEANING,0.1548,0.43,,0.5,3,0.14142135623730953,True,False
+4_771156,4,771156,named_entity,shuffled_history,named_entity__shuffled_history,CLEANING,0.1548,0.43,,0.6,3,0.12472191289246473,True,False
+4_771156,4,771156,named_entity,other_series_history,named_entity__other_series_history,CLEANING,0.1548,0.43,,0.7,3,0.4714045207910317,True,False
+4_771156,4,771156,named_entity,mean_only_history,named_entity__mean_only_history,CLEANING,0.1548,0.43,,0.1,3,0.47140452079103173,True,False
+4_771156,4,771156,named_entity,no_history,named_entity__no_history,CLEANING,0.1548,0.43,,1.5,3,0.29439202887759486,True,False
+4_771156,4,771156,series_hint,original_history,series_hint__original_history,CLEANING,0.1548,0.43,0.43,0.4,3,0.0,True,False
+4_771156,4,771156,series_hint,shuffled_history,series_hint__shuffled_history,CLEANING,0.1548,0.43,0.43,0.4,3,0.0,True,False
+4_771156,4,771156,series_hint,other_series_history,series_hint__other_series_history,CLEANING,0.1548,0.43,0.43,0.4,3,0.282842712474619,True,False
+4_771156,4,771156,series_hint,mean_only_history,series_hint__mean_only_history,CLEANING,0.1548,0.43,0.43,0.1,3,0.18856180831641267,True,False
+4_771156,4,771156,series_hint,no_history,series_hint__no_history,CLEANING,0.1548,0.43,0.43,0.4,3,0.0,True,False
+47_1165989,47,1165989,named_entity,original_history,named_entity__original_history,GROCERY I,0.1559,-0.4,,0.7,3,0.12472191289246473,False,False
+47_1165989,47,1165989,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.1559,-0.4,,0.8,3,0.04714045207910321,False,False
+47_1165989,47,1165989,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.1559,-0.4,,0.3,3,0.0,False,False
+47_1165989,47,1165989,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.1559,-0.4,,0.6,3,0.41096093353126506,False,False
+47_1165989,47,1165989,named_entity,no_history,named_entity__no_history,GROCERY I,0.1559,-0.4,,1.2,3,0.0,False,False
+47_1165989,47,1165989,series_hint,original_history,series_hint__original_history,GROCERY I,0.1559,-0.4,-0.4,-0.4,3,0.0,False,False
+47_1165989,47,1165989,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.1559,-0.4,-0.4,-0.4,3,0.0,False,False
+47_1165989,47,1165989,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.1559,-0.4,-0.4,-0.4,3,0.0,False,False
+47_1165989,47,1165989,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.1559,-0.4,-0.4,-0.4,3,0.0,False,False
+47_1165989,47,1165989,series_hint,no_history,series_hint__no_history,GROCERY I,0.1559,-0.4,-0.4,-0.4,3,0.0,False,False
+1_1146800,1,1146800,named_entity,original_history,named_entity__original_history,GROCERY I,0.1667,0.12,,0.8,3,0.2494438257849294,False,False
+1_1146800,1,1146800,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.1667,0.12,,0.8,3,0.5887840577551898,False,False
+1_1146800,1,1146800,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.1667,0.12,,0.6,3,0.12472191289246469,False,False
+1_1146800,1,1146800,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.1667,0.12,,0.2,3,0.0,False,False
+1_1146800,1,1146800,named_entity,no_history,named_entity__no_history,GROCERY I,0.1667,0.12,,1.2,3,0.6531972647421809,False,False
+1_1146800,1,1146800,series_hint,original_history,series_hint__original_history,GROCERY I,0.1667,0.12,0.12,0.2,3,0.0816496580927726,False,False
+1_1146800,1,1146800,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.1667,0.12,0.12,0.3,3,0.26246692913372704,False,False
+1_1146800,1,1146800,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.1667,0.12,0.12,0.1,3,0.18856180831641267,False,False
+1_1146800,1,1146800,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.1667,0.12,0.12,0.2,3,0.0,False,False
+1_1146800,1,1146800,series_hint,no_history,series_hint__no_history,GROCERY I,0.1667,0.12,0.12,0.1,3,0.0,False,False
+13_581078,13,581078,named_entity,original_history,named_entity__original_history,CLEANING,0.1818,2.39,,0.6,3,0.12472191289246469,True,False
+13_581078,13,581078,named_entity,shuffled_history,named_entity__shuffled_history,CLEANING,0.1818,2.39,,0.6,3,0.2357022603955159,True,False
+13_581078,13,581078,named_entity,other_series_history,named_entity__other_series_history,CLEANING,0.1818,2.39,,1.0,3,0.29439202887759486,True,False
+13_581078,13,581078,named_entity,mean_only_history,named_entity__mean_only_history,CLEANING,0.1818,2.39,,0.6,3,0.339934634239519,True,False
+13_581078,13,581078,named_entity,no_history,named_entity__no_history,CLEANING,0.1818,2.39,,1.2,3,0.04714045207910321,True,False
+13_581078,13,581078,series_hint,original_history,series_hint__original_history,CLEANING,0.1818,2.39,2.39,1.4,3,0.4714045207910317,True,False
+13_581078,13,581078,series_hint,shuffled_history,series_hint__shuffled_history,CLEANING,0.1818,2.39,2.39,1.4,3,0.4714045207910317,True,False
+13_581078,13,581078,series_hint,other_series_history,series_hint__other_series_history,CLEANING,0.1818,2.39,2.39,1.4,3,0.4714045207910317,True,False
+13_581078,13,581078,series_hint,mean_only_history,series_hint__mean_only_history,CLEANING,0.1818,2.39,2.39,1.4,3,0.4714045207910317,True,False
+13_581078,13,581078,series_hint,no_history,series_hint__no_history,CLEANING,0.1818,2.39,2.39,1.4,3,0.0,True,False
+43_622958,43,622958,named_entity,original_history,named_entity__original_history,GROCERY I,0.2121,1.48,,0.4,3,0.1699673171197595,True,False
+43_622958,43,622958,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.2121,1.48,,0.4,3,0.2160246899469287,True,False
+43_622958,43,622958,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.2121,1.48,,1.5,3,0.5185449728701348,True,False
+43_622958,43,622958,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.2121,1.48,,0.3,3,0.09428090415820634,True,False
+43_622958,43,622958,named_entity,no_history,named_entity__no_history,GROCERY I,0.2121,1.48,,1.2,3,0.37712361663282534,True,False
+43_622958,43,622958,series_hint,original_history,series_hint__original_history,GROCERY I,0.2121,1.48,1.48,0.5,3,0.0,True,False
+43_622958,43,622958,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.2121,1.48,1.48,0.5,3,0.0,True,False
+43_622958,43,622958,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.2121,1.48,1.48,0.5,3,0.0,True,False
+43_622958,43,622958,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.2121,1.48,1.48,0.5,3,0.0,True,False
+43_622958,43,622958,series_hint,no_history,series_hint__no_history,GROCERY I,0.2121,1.48,1.48,0.5,3,0.0,True,False
+42_329071,42,329071,named_entity,original_history,named_entity__original_history,GROCERY I,0.2222,0.45,,0.4,3,0.2160246899469287,False,True
+42_329071,42,329071,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.2222,0.45,,0.4,3,0.2160246899469287,False,True
+42_329071,42,329071,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.2222,0.45,,0.3,3,0.0,False,True
+42_329071,42,329071,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.2222,0.45,,0.3,3,0.0,False,True
+42_329071,42,329071,named_entity,no_history,named_entity__no_history,GROCERY I,0.2222,0.45,,1.2,3,1.0842303978193728,False,True
+42_329071,42,329071,series_hint,original_history,series_hint__original_history,GROCERY I,0.2222,0.45,0.45,0.45,3,0.02357022603955158,False,True
+42_329071,42,329071,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.2222,0.45,0.45,0.5,3,0.08164965809277258,False,True
+42_329071,42,329071,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.2222,0.45,0.45,0.4,3,0.04714045207910316,False,True
+42_329071,42,329071,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.2222,0.45,0.45,0.45,3,0.08498365855987976,False,True
+42_329071,42,329071,series_hint,no_history,series_hint__no_history,GROCERY I,0.2222,0.45,0.45,0.5,3,0.04714045207910316,False,True
+21_1463797,21,1463797,named_entity,original_history,named_entity__original_history,BEVERAGES,0.2432,0.9,,0.6,3,0.20548046676563256,False,True
+21_1463797,21,1463797,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.2432,0.9,,0.3,3,0.47140452079103173,False,True
+21_1463797,21,1463797,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.2432,0.9,,1.5,3,0.23570226039551584,False,True
+21_1463797,21,1463797,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.2432,0.9,,0.4,3,0.1247219128924647,False,True
+21_1463797,21,1463797,named_entity,no_history,named_entity__no_history,BEVERAGES,0.2432,0.9,,1.5,3,0.5354126134736337,False,True
+21_1463797,21,1463797,series_hint,original_history,series_hint__original_history,BEVERAGES,0.2432,0.9,0.9,0.9,3,0.0,False,True
+21_1463797,21,1463797,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.2432,0.9,0.9,0.9,3,0.0,False,True
+21_1463797,21,1463797,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.2432,0.9,0.9,0.9,3,0.4714045207910316,False,True
+21_1463797,21,1463797,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.2432,0.9,0.9,0.9,3,0.0,False,True
+21_1463797,21,1463797,series_hint,no_history,series_hint__no_history,BEVERAGES,0.2432,0.9,0.9,0.9,3,0.0,False,True
+31_258396,31,258396,named_entity,original_history,named_entity__original_history,GROCERY I,0.25,-0.54,,0.6,3,0.09428090415820632,True,False
+31_258396,31,258396,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.25,-0.54,,0.6,3,0.09428090415820632,True,False
+31_258396,31,258396,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.25,-0.54,,1.2,3,0.3299831645537222,True,False
+31_258396,31,258396,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.25,-0.54,,0.3,3,0.09428090415820634,True,False
+31_258396,31,258396,named_entity,no_history,named_entity__no_history,GROCERY I,0.25,-0.54,,1.2,3,0.4242640687119285,True,False
+31_258396,31,258396,series_hint,original_history,series_hint__original_history,GROCERY I,0.25,-0.54,-0.54,-0.5,3,0.0,True,False
+31_258396,31,258396,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.25,-0.54,-0.54,-0.5,3,0.0,True,False
+31_258396,31,258396,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.25,-0.54,-0.54,-0.5,3,0.0,True,False
+31_258396,31,258396,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.25,-0.54,-0.54,-0.5,3,0.0,True,False
+31_258396,31,258396,series_hint,no_history,series_hint__no_history,GROCERY I,0.25,-0.54,-0.54,-0.5,3,0.0,True,False
+14_1920071,14,1920071,named_entity,original_history,named_entity__original_history,GROCERY I,0.25,0.45,,1.5,3,0.0,False,False
+14_1920071,14,1920071,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.25,0.45,,1.5,3,0.0,False,False
+14_1920071,14,1920071,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.25,0.45,,0.8,3,0.16996731711975951,False,False
+14_1920071,14,1920071,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.25,0.45,,0.3,3,0.09428090415820634,False,False
+14_1920071,14,1920071,named_entity,no_history,named_entity__no_history,GROCERY I,0.25,0.45,,1.5,3,1.3199326582148887,False,False
+14_1920071,14,1920071,series_hint,original_history,series_hint__original_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.0,False,False
+14_1920071,14,1920071,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.0,False,False
+14_1920071,14,1920071,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.0,False,False
+14_1920071,14,1920071,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.25,0.45,0.45,0.7,3,0.09428090415820632,False,False
+14_1920071,14,1920071,series_hint,no_history,series_hint__no_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.04714045207910316,False,False
+54_804974,54,804974,named_entity,original_history,named_entity__original_history,GROCERY I,0.25,0.45,,1.5,3,0.0,True,False
+54_804974,54,804974,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.25,0.45,,1.0,3,0.23570226039551584,True,False
+54_804974,54,804974,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.25,0.45,,0.8,3,0.3299831645537222,True,False
+54_804974,54,804974,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.25,0.45,,0.4,3,0.04714045207910316,True,False
+54_804974,54,804974,named_entity,no_history,named_entity__no_history,GROCERY I,0.25,0.45,,1.5,3,0.9428090415820634,True,False
+54_804974,54,804974,series_hint,original_history,series_hint__original_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.02357022603955158,True,False
+54_804974,54,804974,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.0,True,False
+54_804974,54,804974,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.04714045207910316,True,False
+54_804974,54,804974,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.25,0.45,0.45,0.4,3,0.0,True,False
+54_804974,54,804974,series_hint,no_history,series_hint__no_history,GROCERY I,0.25,0.45,0.45,0.5,3,0.04714045207910316,True,False
+48_1463596,48,1463596,named_entity,original_history,named_entity__original_history,BEVERAGES,0.2567,1.36,,0.4,3,0.09428090415820632,False,False
+48_1463596,48,1463596,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.2567,1.36,,0.6,3,0.0,False,False
+48_1463596,48,1463596,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.2567,1.36,,1.3,3,0.08164965809277258,False,False
+48_1463596,48,1463596,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.2567,1.36,,0.4,3,0.2943920288775949,False,False
+48_1463596,48,1463596,named_entity,no_history,named_entity__no_history,BEVERAGES,0.2567,1.36,,1.2,3,0.14142135623730953,False,False
+48_1463596,48,1463596,series_hint,original_history,series_hint__original_history,BEVERAGES,0.2567,1.36,1.36,0.4,3,0.4714045207910316,False,False
+48_1463596,48,1463596,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.2567,1.36,1.36,0.4,3,0.0,False,False
+48_1463596,48,1463596,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.2567,1.36,1.36,1.4,3,0.0,False,False
+48_1463596,48,1463596,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.2567,1.36,1.36,1.4,3,0.5185449728701348,False,False
+48_1463596,48,1463596,series_hint,no_history,series_hint__no_history,BEVERAGES,0.2567,1.36,1.36,1.4,3,0.18856180831641273,False,False
+44_581742,44,581742,named_entity,original_history,named_entity__original_history,GROCERY I,0.2596,0.81,,1.3,3,0.30912061651652345,True,False
+44_581742,44,581742,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.2596,0.81,,1.4,3,0.12472191289246475,True,False
+44_581742,44,581742,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.2596,0.81,,1.0,3,0.0,True,False
+44_581742,44,581742,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.2596,0.81,,1.3,3,0.0,True,False
+44_581742,44,581742,named_entity,no_history,named_entity__no_history,GROCERY I,0.2596,0.81,,0.3,3,0.4242640687119285,True,False
+44_581742,44,581742,series_hint,original_history,series_hint__original_history,GROCERY I,0.2596,0.81,0.81,0.8,3,0.0,True,False
+44_581742,44,581742,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.2596,0.81,0.81,0.8,3,0.004714045207910321,True,False
+44_581742,44,581742,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.2596,0.81,0.81,0.8,3,0.004714045207910321,True,False
+44_581742,44,581742,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.2596,0.81,0.81,1.3,3,0.0,True,False
+44_581742,44,581742,series_hint,no_history,series_hint__no_history,GROCERY I,0.2596,0.81,0.81,0.8,3,0.0,True,False
+51_1456998,51,1456998,named_entity,original_history,named_entity__original_history,HOME CARE,0.2917,-0.55,,0.7,3,0.0,False,False
+51_1456998,51,1456998,named_entity,shuffled_history,named_entity__shuffled_history,HOME CARE,0.2917,-0.55,,0.7,3,0.0,False,False
+51_1456998,51,1456998,named_entity,other_series_history,named_entity__other_series_history,HOME CARE,0.2917,-0.55,,0.7,3,0.14142135623730948,False,False
+51_1456998,51,1456998,named_entity,mean_only_history,named_entity__mean_only_history,HOME CARE,0.2917,-0.55,,0.5,3,0.09428090415820634,False,False
+51_1456998,51,1456998,named_entity,no_history,named_entity__no_history,HOME CARE,0.2917,-0.55,,1.5,3,0.0,False,False
+51_1456998,51,1456998,series_hint,original_history,series_hint__original_history,HOME CARE,0.2917,-0.55,-0.55,-0.6,3,0.0,False,False
+51_1456998,51,1456998,series_hint,shuffled_history,series_hint__shuffled_history,HOME CARE,0.2917,-0.55,-0.55,-0.6,3,0.0,False,False
+51_1456998,51,1456998,series_hint,other_series_history,series_hint__other_series_history,HOME CARE,0.2917,-0.55,-0.55,-0.6,3,0.1414213562373095,False,False
+51_1456998,51,1456998,series_hint,mean_only_history,series_hint__mean_only_history,HOME CARE,0.2917,-0.55,-0.55,-0.5,3,0.0,False,False
+51_1456998,51,1456998,series_hint,no_history,series_hint__no_history,HOME CARE,0.2917,-0.55,-0.55,-0.6,3,0.0,False,False
+28_938566,28,938566,named_entity,original_history,named_entity__original_history,GROCERY I,0.3252,1.44,,0.6,3,0.16329931618554522,True,False
+28_938566,28,938566,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.3252,1.44,,1.3,3,0.21602468994692864,True,False
+28_938566,28,938566,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.3252,1.44,,1.5,3,0.16996731711975954,True,False
+28_938566,28,938566,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.3252,1.44,,0.4,3,0.0,True,False
+28_938566,28,938566,named_entity,no_history,named_entity__no_history,GROCERY I,0.3252,1.44,,1.2,3,0.4242640687119285,True,False
+28_938566,28,938566,series_hint,original_history,series_hint__original_history,GROCERY I,0.3252,1.44,1.44,1.4,3,0.18856180831641264,True,False
+28_938566,28,938566,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.3252,1.44,1.44,1.4,3,0.4714045207910316,True,False
+28_938566,28,938566,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.3252,1.44,1.44,1.4,3,0.18856180831641264,True,False
+28_938566,28,938566,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.3252,1.44,1.44,1.4,3,0.4714045207910316,True,False
+28_938566,28,938566,series_hint,no_history,series_hint__no_history,GROCERY I,0.3252,1.44,1.44,0.4,3,0.0,True,False
+8_804932,8,804932,named_entity,original_history,named_entity__original_history,BEVERAGES,0.3333,2.51,,0.3,3,0.1414213562373095,True,False
+8_804932,8,804932,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.3333,2.51,,0.3,3,0.0,True,False
+8_804932,8,804932,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.3333,2.51,,1.5,3,0.4714045207910317,True,False
+8_804932,8,804932,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.3333,2.51,,0.5,3,0.04714045207910316,True,False
+8_804932,8,804932,named_entity,no_history,named_entity__no_history,BEVERAGES,0.3333,2.51,,1.0,3,0.3299831645537222,True,False
+8_804932,8,804932,series_hint,original_history,series_hint__original_history,BEVERAGES,0.3333,2.51,2.51,1.5,3,0.0,True,False
+8_804932,8,804932,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.3333,2.51,2.51,0.5,3,0.5249338582674541,True,False
+8_804932,8,804932,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.3333,2.51,2.51,1.5,3,0.4714045207910317,True,False
+8_804932,8,804932,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.3333,2.51,2.51,1.5,3,0.0,True,False
+8_804932,8,804932,series_hint,no_history,series_hint__no_history,BEVERAGES,0.3333,2.51,2.51,1.5,3,0.0,True,False
+37_1124165,37,1124165,named_entity,original_history,named_entity__original_history,BEVERAGES,0.3333,1.48,,0.7,3,0.14142135623730953,False,True
+37_1124165,37,1124165,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.3333,1.48,,1.0,3,0.0,False,True
+37_1124165,37,1124165,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.3333,1.48,,1.0,3,0.49888765156985887,False,True
+37_1124165,37,1124165,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.3333,1.48,,0.2,3,0.0,False,True
+37_1124165,37,1124165,named_entity,no_history,named_entity__no_history,BEVERAGES,0.3333,1.48,,1.2,3,0.5099019513592785,False,True
+37_1124165,37,1124165,series_hint,original_history,series_hint__original_history,BEVERAGES,0.3333,1.48,1.48,1.5,3,0.4714045207910317,False,True
+37_1124165,37,1124165,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.3333,1.48,1.48,1.0,3,0.408248290463863,False,True
+37_1124165,37,1124165,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.3333,1.48,1.48,1.5,3,0.0,False,True
+37_1124165,37,1124165,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.3333,1.48,1.48,1.5,3,0.09428090415820632,False,True
+37_1124165,37,1124165,series_hint,no_history,series_hint__no_history,BEVERAGES,0.3333,1.48,1.48,0.5,3,0.4714045207910317,False,True
+9_580929,9,580929,named_entity,original_history,named_entity__original_history,GROCERY I,0.3333,-0.9,,1.5,3,0.4714045207910317,True,True
+9_580929,9,580929,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.3333,-0.9,,0.8,3,0.41899350299921784,True,True
+9_580929,9,580929,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.3333,-0.9,,0.5,3,0.20548046676563259,True,True
+9_580929,9,580929,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.3333,-0.9,,0.5,3,0.0,True,True
+9_580929,9,580929,named_entity,no_history,named_entity__no_history,GROCERY I,0.3333,-0.9,,1.5,3,0.0,True,True
+9_580929,9,580929,series_hint,original_history,series_hint__original_history,GROCERY I,0.3333,-0.9,-0.9,-0.9,3,0.0,True,True
+9_580929,9,580929,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.3333,-0.9,-0.9,-0.9,3,0.0,True,True
+9_580929,9,580929,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.3333,-0.9,-0.9,-0.9,3,0.0,True,True
+9_580929,9,580929,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.3333,-0.9,-0.9,-0.9,3,0.0,True,True
+9_580929,9,580929,series_hint,no_history,series_hint__no_history,GROCERY I,0.3333,-0.9,-0.9,-0.9,3,0.0,True,True
+29_564274,29,564274,named_entity,original_history,named_entity__original_history,GROCERY I,0.3333,0.94,,1.4,3,0.09428090415820632,False,False
+29_564274,29,564274,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.3333,0.94,,1.4,3,0.16329931618554527,False,False
+29_564274,29,564274,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.3333,0.94,,0.4,3,0.04714045207910318,False,False
+29_564274,29,564274,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.3333,0.94,,0.3,3,0.0,False,False
+29_564274,29,564274,named_entity,no_history,named_entity__no_history,GROCERY I,0.3333,0.94,,1.2,3,0.2867441755680875,False,False
+29_564274,29,564274,series_hint,original_history,series_hint__original_history,GROCERY I,0.3333,0.94,0.94,0.94,3,0.1329995822884,False,False
+29_564274,29,564274,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.3333,0.94,0.94,0.94,3,0.018856180831641232,False,False
+29_564274,29,564274,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.3333,0.94,0.94,0.9,3,0.0,False,False
+29_564274,29,564274,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.3333,0.94,0.94,0.9,3,0.3299831645537222,False,False
+29_564274,29,564274,series_hint,no_history,series_hint__no_history,GROCERY I,0.3333,0.94,0.94,0.9,3,0.0,False,False
+24_1084882,24,1084882,named_entity,original_history,named_entity__original_history,GROCERY I,0.375,0.08,,1.5,3,0.0,True,True
+24_1084882,24,1084882,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.375,0.08,,1.5,3,0.0,True,True
+24_1084882,24,1084882,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.375,0.08,,1.5,3,0.4714045207910317,True,True
+24_1084882,24,1084882,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.375,0.08,,0.5,3,0.09428090415820634,True,True
+24_1084882,24,1084882,named_entity,no_history,named_entity__no_history,GROCERY I,0.375,0.08,,1.5,3,0.565685424949238,True,True
+24_1084882,24,1084882,series_hint,original_history,series_hint__original_history,GROCERY I,0.375,0.08,0.08,0.1,3,0.04714045207910317,True,True
+24_1084882,24,1084882,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.375,0.08,0.08,0.08,3,0.03771236166328253,True,True
+24_1084882,24,1084882,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.375,0.08,0.08,0.1,3,0.0,True,True
+24_1084882,24,1084882,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.375,0.08,0.08,0.1,3,0.1247219128924647,True,True
+24_1084882,24,1084882,series_hint,no_history,series_hint__no_history,GROCERY I,0.375,0.08,0.08,0.1,3,0.0,True,True
+43_1463609,43,1463609,named_entity,original_history,named_entity__original_history,BEVERAGES,0.4,0.81,,1.5,3,0.0,False,False
+43_1463609,43,1463609,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.4,0.81,,1.5,3,0.0,False,False
+43_1463609,43,1463609,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.4,0.81,,1.2,3,0.26246692913372704,False,False
+43_1463609,43,1463609,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.4,0.81,,0.3,3,0.0,False,False
+43_1463609,43,1463609,named_entity,no_history,named_entity__no_history,BEVERAGES,0.4,0.81,,1.5,3,0.4714045207910317,False,False
+43_1463609,43,1463609,series_hint,original_history,series_hint__original_history,BEVERAGES,0.4,0.81,0.81,0.8,3,0.0,False,False
+43_1463609,43,1463609,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.4,0.81,0.81,0.8,3,0.0,False,False
+43_1463609,43,1463609,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.4,0.81,0.81,0.8,3,0.0,False,False
+43_1463609,43,1463609,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.4,0.81,0.81,0.3,3,0.0,False,False
+43_1463609,43,1463609,series_hint,no_history,series_hint__no_history,BEVERAGES,0.4,0.81,0.81,0.8,3,0.0,False,False
+35_1281011,35,1281011,named_entity,original_history,named_entity__original_history,BEVERAGES,0.4167,0.63,,1.5,3,0.0,False,False
+35_1281011,35,1281011,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.4167,0.63,,1.5,3,0.0,False,False
+35_1281011,35,1281011,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.4167,0.63,,1.5,3,0.09428090415820632,False,False
+35_1281011,35,1281011,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.4167,0.63,,0.6,3,0.0,False,False
+35_1281011,35,1281011,named_entity,no_history,named_entity__no_history,BEVERAGES,0.4167,0.63,,1.5,3,0.23570226039551584,False,False
+35_1281011,35,1281011,series_hint,original_history,series_hint__original_history,BEVERAGES,0.4167,0.63,0.63,0.6,3,0.0,False,False
+35_1281011,35,1281011,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.4167,0.63,0.63,0.6,3,0.0,False,False
+35_1281011,35,1281011,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.4167,0.63,0.63,1.0,3,0.3681787005729087,False,False
+35_1281011,35,1281011,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.4167,0.63,0.63,0.6,3,0.0,False,False
+35_1281011,35,1281011,series_hint,no_history,series_hint__no_history,BEVERAGES,0.4167,0.63,0.63,0.6,3,0.0,False,False
+12_2010216,12,2010216,named_entity,original_history,named_entity__original_history,GROCERY I,0.4167,0.94,,1.0,3,0.14142135623730953,False,False
+12_2010216,12,2010216,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.4167,0.94,,1.0,3,0.24494897427831785,False,False
+12_2010216,12,2010216,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.4167,0.94,,1.0,3,0.408248290463863,False,False
+12_2010216,12,2010216,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.4167,0.94,,0.5,3,0.09428090415820634,False,False
+12_2010216,12,2010216,named_entity,no_history,named_entity__no_history,GROCERY I,0.4167,0.94,,1.5,3,0.0,False,False
+12_2010216,12,2010216,series_hint,original_history,series_hint__original_history,GROCERY I,0.4167,0.94,0.94,0.9,3,0.0,False,False
+12_2010216,12,2010216,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.4167,0.94,0.94,0.9,3,0.4714045207910316,False,False
+12_2010216,12,2010216,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.4167,0.94,0.94,0.9,3,0.0,False,False
+12_2010216,12,2010216,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.4167,0.94,0.94,0.9,3,0.0,False,False
+12_2010216,12,2010216,series_hint,no_history,series_hint__no_history,GROCERY I,0.4167,0.94,0.94,0.9,3,0.018856180831641232,False,False
+3_321798,3,321798,named_entity,original_history,named_entity__original_history,CLEANING,0.4167,0.32,,2.0,3,2.094967514996089,True,False
+3_321798,3,321798,named_entity,shuffled_history,named_entity__shuffled_history,CLEANING,0.4167,0.32,,2.5,3,2.0548046676563256,True,False
+3_321798,3,321798,named_entity,other_series_history,named_entity__other_series_history,CLEANING,0.4167,0.32,,0.7,3,0.16996731711975951,True,False
+3_321798,3,321798,named_entity,mean_only_history,named_entity__mean_only_history,CLEANING,0.4167,0.32,,0.6,3,0.0,True,False
+3_321798,3,321798,named_entity,no_history,named_entity__no_history,CLEANING,0.4167,0.32,,1.5,3,0.0,True,False
+3_321798,3,321798,series_hint,original_history,series_hint__original_history,CLEANING,0.4167,0.32,0.32,0.3,3,0.0,True,False
+3_321798,3,321798,series_hint,shuffled_history,series_hint__shuffled_history,CLEANING,0.4167,0.32,0.32,0.3,3,0.009428090415820642,True,False
+3_321798,3,321798,series_hint,other_series_history,series_hint__other_series_history,CLEANING,0.4167,0.32,0.32,0.3,3,0.0,True,False
+3_321798,3,321798,series_hint,mean_only_history,series_hint__mean_only_history,CLEANING,0.4167,0.32,0.32,0.6,3,0.1414213562373095,True,False
+3_321798,3,321798,series_hint,no_history,series_hint__no_history,CLEANING,0.4167,0.32,0.32,0.3,3,0.0,True,False
+46_261700,46,261700,named_entity,original_history,named_entity__original_history,GROCERY I,0.4286,0.38,,0.5,3,0.08164965809277258,True,True
+46_261700,46,261700,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.4286,0.38,,0.5,3,0.08164965809277258,True,True
+46_261700,46,261700,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.4286,0.38,,1.0,3,0.4714045207910317,True,True
+46_261700,46,261700,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.4286,0.38,,0.5,3,0.8013876853447539,True,True
+46_261700,46,261700,named_entity,no_history,named_entity__no_history,GROCERY I,0.4286,0.38,,1.2,3,0.5099019513592785,True,True
+46_261700,46,261700,series_hint,original_history,series_hint__original_history,GROCERY I,0.4286,0.38,0.38,0.4,3,0.0,True,True
+46_261700,46,261700,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.4286,0.38,0.38,0.4,3,0.0,True,True
+46_261700,46,261700,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.4286,0.38,0.38,0.4,3,0.0,True,True
+46_261700,46,261700,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.4286,0.38,0.38,0.4,3,0.0,True,True
+46_261700,46,261700,series_hint,no_history,series_hint__no_history,GROCERY I,0.4286,0.38,0.38,0.4,3,0.0,True,True
+16_320681,16,320681,named_entity,original_history,named_entity__original_history,GROCERY I,0.4444,0.23,,1.3,3,0.40276819911981904,True,False
+16_320681,16,320681,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.4444,0.23,,0.5,3,0.4027681991198191,True,False
+16_320681,16,320681,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.4444,0.23,,0.9,3,0.04714045207910316,True,False
+16_320681,16,320681,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.4444,0.23,,0.6,3,0.0,True,False
+16_320681,16,320681,named_entity,no_history,named_entity__no_history,GROCERY I,0.4444,0.23,,1.2,3,1.3474255287605157,True,False
+16_320681,16,320681,series_hint,original_history,series_hint__original_history,GROCERY I,0.4444,0.23,0.23,0.2,3,0.0,True,False
+16_320681,16,320681,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.4444,0.23,0.23,0.2,3,0.0,True,False
+16_320681,16,320681,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.4444,0.23,0.23,0.2,3,0.0,True,False
+16_320681,16,320681,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.4444,0.23,0.23,0.6,3,0.0,True,False
+16_320681,16,320681,series_hint,no_history,series_hint__no_history,GROCERY I,0.4444,0.23,0.23,0.2,3,0.0,True,False
+51_119141,51,119141,named_entity,original_history,named_entity__original_history,GROCERY I,0.4773,0.17,,0.8,3,0.3681787005729087,True,True
+51_119141,51,119141,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.4773,0.17,,0.8,3,0.2494438257849294,True,True
+51_119141,51,119141,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.4773,0.17,,3.0,3,0.9428090415820634,True,True
+51_119141,51,119141,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.4773,0.17,,0.4,3,0.04714045207910318,True,True
+51_119141,51,119141,named_entity,no_history,named_entity__no_history,GROCERY I,0.4773,0.17,,1.2,3,1.0842303978193728,True,True
+51_119141,51,119141,series_hint,original_history,series_hint__original_history,GROCERY I,0.4773,0.17,0.17,0.2,3,0.2357022603955158,True,True
+51_119141,51,119141,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.4773,0.17,0.17,0.2,3,0.18856180831641267,True,True
+51_119141,51,119141,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.4773,0.17,0.17,0.7,3,0.3299831645537222,True,True
+51_119141,51,119141,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.4773,0.17,0.17,0.4,3,0.09428090415820634,True,True
+51_119141,51,119141,series_hint,no_history,series_hint__no_history,GROCERY I,0.4773,0.17,0.17,0.2,3,0.0,True,True
+23_796396,23,796396,named_entity,original_history,named_entity__original_history,CLEANING,0.5,-0.87,,1.5,3,0.4714045207910317,True,False
+23_796396,23,796396,named_entity,shuffled_history,named_entity__shuffled_history,CLEANING,0.5,-0.87,,0.6,3,0.6847546194724713,True,False
+23_796396,23,796396,named_entity,other_series_history,named_entity__other_series_history,CLEANING,0.5,-0.87,,2.5,3,0.23570226039551584,True,False
+23_796396,23,796396,named_entity,mean_only_history,named_entity__mean_only_history,CLEANING,0.5,-0.87,,0.4,3,0.0,True,False
+23_796396,23,796396,named_entity,no_history,named_entity__no_history,CLEANING,0.5,-0.87,,1.5,3,0.23570226039551584,True,False
+23_796396,23,796396,series_hint,original_history,series_hint__original_history,CLEANING,0.5,-0.87,-0.87,-0.9,3,0.0,True,False
+23_796396,23,796396,series_hint,shuffled_history,series_hint__shuffled_history,CLEANING,0.5,-0.87,-0.87,-0.9,3,0.0,True,False
+23_796396,23,796396,series_hint,other_series_history,series_hint__other_series_history,CLEANING,0.5,-0.87,-0.87,-0.9,3,0.0,True,False
+23_796396,23,796396,series_hint,mean_only_history,series_hint__mean_only_history,CLEANING,0.5,-0.87,-0.87,-0.3,3,0.282842712474619,True,False
+23_796396,23,796396,series_hint,no_history,series_hint__no_history,CLEANING,0.5,-0.87,-0.87,-0.9,3,0.0,True,False
+37_1152355,37,1152355,named_entity,original_history,named_entity__original_history,FROZEN FOODS,0.5,0.85,,1.5,3,0.23570226039551584,False,False
+37_1152355,37,1152355,named_entity,shuffled_history,named_entity__shuffled_history,FROZEN FOODS,0.5,0.85,,1.0,3,0.4714045207910317,False,False
+37_1152355,37,1152355,named_entity,other_series_history,named_entity__other_series_history,FROZEN FOODS,0.5,0.85,,0.8,3,0.3299831645537222,False,False
+37_1152355,37,1152355,named_entity,mean_only_history,named_entity__mean_only_history,FROZEN FOODS,0.5,0.85,,1.0,3,0.14142135623730953,False,False
+37_1152355,37,1152355,named_entity,no_history,named_entity__no_history,FROZEN FOODS,0.5,0.85,,1.2,3,0.3299831645537222,False,False
+37_1152355,37,1152355,series_hint,original_history,series_hint__original_history,FROZEN FOODS,0.5,0.85,0.85,0.9,3,0.0,False,False
+37_1152355,37,1152355,series_hint,shuffled_history,series_hint__shuffled_history,FROZEN FOODS,0.5,0.85,0.85,0.9,3,0.04714045207910316,False,False
+37_1152355,37,1152355,series_hint,other_series_history,series_hint__other_series_history,FROZEN FOODS,0.5,0.85,0.85,0.9,3,0.0,False,False
+37_1152355,37,1152355,series_hint,mean_only_history,series_hint__mean_only_history,FROZEN FOODS,0.5,0.85,0.85,0.9,3,0.09428090415820636,False,False
+37_1152355,37,1152355,series_hint,no_history,series_hint__no_history,FROZEN FOODS,0.5,0.85,0.85,0.9,3,0.0,False,False
+24_1922657,24,1922657,named_entity,original_history,named_entity__original_history,PERSONAL CARE,0.5,0.78,,0.7,3,0.28284271247461906,False,False
+24_1922657,24,1922657,named_entity,shuffled_history,named_entity__shuffled_history,PERSONAL CARE,0.5,0.78,,0.6,3,0.12472191289246469,False,False
+24_1922657,24,1922657,named_entity,other_series_history,named_entity__other_series_history,PERSONAL CARE,0.5,0.78,,1.5,3,0.408248290463863,False,False
+24_1922657,24,1922657,named_entity,mean_only_history,named_entity__mean_only_history,PERSONAL CARE,0.5,0.78,,0.5,3,0.0,False,False
+24_1922657,24,1922657,named_entity,no_history,named_entity__no_history,PERSONAL CARE,0.5,0.78,,1.5,3,0.23570226039551584,False,False
+24_1922657,24,1922657,series_hint,original_history,series_hint__original_history,PERSONAL CARE,0.5,0.78,0.78,0.8,3,0.0,False,False
+24_1922657,24,1922657,series_hint,shuffled_history,series_hint__shuffled_history,PERSONAL CARE,0.5,0.78,0.78,0.8,3,0.0,False,False
+24_1922657,24,1922657,series_hint,other_series_history,series_hint__other_series_history,PERSONAL CARE,0.5,0.78,0.78,0.8,3,0.0,False,False
+24_1922657,24,1922657,series_hint,mean_only_history,series_hint__mean_only_history,PERSONAL CARE,0.5,0.78,0.78,0.8,3,0.0,False,False
+24_1922657,24,1922657,series_hint,no_history,series_hint__no_history,PERSONAL CARE,0.5,0.78,0.78,0.8,3,0.0,False,False
+1_679442,1,679442,named_entity,original_history,named_entity__original_history,BEVERAGES,0.5,0.33,,1.4,3,0.28284271247461895,True,True
+1_679442,1,679442,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.5,0.33,,1.2,3,0.24944382578492938,True,True
+1_679442,1,679442,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.5,0.33,,4.0,3,14.049990114666352,True,True
+1_679442,1,679442,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.5,0.33,,0.4,3,0.21602468994692867,True,True
+1_679442,1,679442,named_entity,no_history,named_entity__no_history,BEVERAGES,0.5,0.33,,1.5,3,0.14142135623730953,True,True
+1_679442,1,679442,series_hint,original_history,series_hint__original_history,BEVERAGES,0.5,0.33,0.33,0.3,3,0.0,True,True
+1_679442,1,679442,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.5,0.33,0.33,0.3,3,0.014142135623730963,True,True
+1_679442,1,679442,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.5,0.33,0.33,0.4,3,0.1247219128924647,True,True
+1_679442,1,679442,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.5,0.33,0.33,0.3,3,0.0,True,True
+1_679442,1,679442,series_hint,no_history,series_hint__no_history,BEVERAGES,0.5,0.33,0.33,0.3,3,0.0,True,True
+32_1958166,32,1958166,named_entity,original_history,named_entity__original_history,BEVERAGES,0.5,0.45,,2.5,3,0.816496580927726,False,False
+32_1958166,32,1958166,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.5,0.45,,1.5,3,0.3299831645537222,False,False
+32_1958166,32,1958166,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.5,0.45,,1.8,3,0.14142135623730953,False,False
+32_1958166,32,1958166,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.5,0.45,,0.3,3,0.0,False,False
+32_1958166,32,1958166,named_entity,no_history,named_entity__no_history,BEVERAGES,0.5,0.45,,1.5,3,0.0,False,False
+32_1958166,32,1958166,series_hint,original_history,series_hint__original_history,BEVERAGES,0.5,0.45,0.45,0.45,3,0.02357022603955158,False,False
+32_1958166,32,1958166,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.5,0.45,0.45,0.45,3,0.0,False,False
+32_1958166,32,1958166,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.5,0.45,0.45,0.7,3,0.20548046676563256,False,False
+32_1958166,32,1958166,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.5,0.45,0.45,0.8,3,0.0,False,False
+32_1958166,32,1958166,series_hint,no_history,series_hint__no_history,BEVERAGES,0.5,0.45,0.45,0.5,3,0.18856180831641267,False,False
+14_881910,14,881910,named_entity,original_history,named_entity__original_history,GROCERY I,0.5,1.91,,1.3,3,0.41899350299921784,True,False
+14_881910,14,881910,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.5,1.91,,1.3,3,0.16996731711975946,True,False
+14_881910,14,881910,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.5,1.91,,1.5,3,0.4642796092394707,True,False
+14_881910,14,881910,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.5,1.91,,0.3,3,0.16329931618554522,True,False
+14_881910,14,881910,named_entity,no_history,named_entity__no_history,GROCERY I,0.5,1.91,,1.5,3,0.0,True,False
+14_881910,14,881910,series_hint,original_history,series_hint__original_history,GROCERY I,0.5,1.91,1.91,0.9,3,0.04714045207910316,True,False
+14_881910,14,881910,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.5,1.91,1.91,0.9,3,0.0,True,False
+14_881910,14,881910,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.5,1.91,1.91,0.9,3,0.4714045207910316,True,False
+14_881910,14,881910,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.5,1.91,1.91,1.9,3,0.0,True,False
+14_881910,14,881910,series_hint,no_history,series_hint__no_history,GROCERY I,0.5,1.91,1.91,0.9,3,0.4714045207910316,True,False
+49_940590,49,940590,named_entity,original_history,named_entity__original_history,CLEANING,0.5556,-0.9,,0.4,3,0.1247219128924647,True,True
+49_940590,49,940590,named_entity,shuffled_history,named_entity__shuffled_history,CLEANING,0.5556,-0.9,,0.5,3,0.08164965809277258,True,True
+49_940590,49,940590,named_entity,other_series_history,named_entity__other_series_history,CLEANING,0.5556,-0.9,,1.0,3,0.408248290463863,True,True
+49_940590,49,940590,named_entity,mean_only_history,named_entity__mean_only_history,CLEANING,0.5556,-0.9,,0.2,3,0.0,True,True
+49_940590,49,940590,named_entity,no_history,named_entity__no_history,CLEANING,0.5556,-0.9,,1.2,3,0.04714045207910321,True,True
+49_940590,49,940590,series_hint,original_history,series_hint__original_history,CLEANING,0.5556,-0.9,-0.9,-0.9,3,0.0,True,True
+49_940590,49,940590,series_hint,shuffled_history,series_hint__shuffled_history,CLEANING,0.5556,-0.9,-0.9,-0.9,3,0.0,True,True
+49_940590,49,940590,series_hint,other_series_history,series_hint__other_series_history,CLEANING,0.5556,-0.9,-0.9,-0.9,3,0.0,True,True
+49_940590,49,940590,series_hint,mean_only_history,series_hint__mean_only_history,CLEANING,0.5556,-0.9,-0.9,-0.9,3,0.0,True,True
+49_940590,49,940590,series_hint,no_history,series_hint__no_history,CLEANING,0.5556,-0.9,-0.9,-0.9,3,0.0,True,True
+44_1156722,44,1156722,named_entity,original_history,named_entity__original_history,GROCERY I,0.5714,0.81,,0.7,3,0.14142135623730948,False,True
+44_1156722,44,1156722,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY I,0.5714,0.81,,0.7,3,0.14142135623730948,False,True
+44_1156722,44,1156722,named_entity,other_series_history,named_entity__other_series_history,GROCERY I,0.5714,0.81,,0.6,3,0.1414213562373095,False,True
+44_1156722,44,1156722,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY I,0.5714,0.81,,0.3,3,0.04714045207910316,False,True
+44_1156722,44,1156722,named_entity,no_history,named_entity__no_history,GROCERY I,0.5714,0.81,,1.2,3,1.0842303978193728,False,True
+44_1156722,44,1156722,series_hint,original_history,series_hint__original_history,GROCERY I,0.5714,0.81,0.81,0.8,3,0.0,False,True
+44_1156722,44,1156722,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY I,0.5714,0.81,0.81,0.8,3,0.0,False,True
+44_1156722,44,1156722,series_hint,other_series_history,series_hint__other_series_history,GROCERY I,0.5714,0.81,0.81,0.8,3,0.0,False,True
+44_1156722,44,1156722,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY I,0.5714,0.81,0.81,0.8,3,0.0,False,True
+44_1156722,44,1156722,series_hint,no_history,series_hint__no_history,GROCERY I,0.5714,0.81,0.81,0.8,3,0.0,False,True
+41_1463823,41,1463823,named_entity,original_history,named_entity__original_history,BEVERAGES,0.5735,1.23,,1.5,3,0.0,False,True
+41_1463823,41,1463823,named_entity,shuffled_history,named_entity__shuffled_history,BEVERAGES,0.5735,1.23,,1.5,3,0.0,False,True
+41_1463823,41,1463823,named_entity,other_series_history,named_entity__other_series_history,BEVERAGES,0.5735,1.23,,1.0,3,0.16996731711975951,False,True
+41_1463823,41,1463823,named_entity,mean_only_history,named_entity__mean_only_history,BEVERAGES,0.5735,1.23,,0.4,3,0.0,False,True
+41_1463823,41,1463823,named_entity,no_history,named_entity__no_history,BEVERAGES,0.5735,1.23,,1.5,3,0.37712361663282534,False,True
+41_1463823,41,1463823,series_hint,original_history,series_hint__original_history,BEVERAGES,0.5735,1.23,1.23,1.2,3,0.3299831645537222,False,True
+41_1463823,41,1463823,series_hint,shuffled_history,series_hint__shuffled_history,BEVERAGES,0.5735,1.23,1.23,1.2,3,0.3299831645537222,False,True
+41_1463823,41,1463823,series_hint,other_series_history,series_hint__other_series_history,BEVERAGES,0.5735,1.23,1.23,0.2,3,0.4714045207910317,False,True
+41_1463823,41,1463823,series_hint,mean_only_history,series_hint__mean_only_history,BEVERAGES,0.5735,1.23,1.23,0.4,3,0.0,False,True
+41_1463823,41,1463823,series_hint,no_history,series_hint__no_history,BEVERAGES,0.5735,1.23,1.23,0.2,3,0.0,False,True
+37_315473,37,315473,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.65,1.58,,1.8,3,0.18856180831641273,True,True
+37_315473,37,315473,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.65,1.58,,0.8,3,0.18856180831641267,True,True
+37_315473,37,315473,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.65,1.58,,1.5,3,2.129684379328438,True,True
+37_315473,37,315473,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.65,1.58,,0.8,3,0.2494438257849294,True,True
+37_315473,37,315473,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.65,1.58,,1.2,3,0.2867441755680875,True,True
+37_315473,37,315473,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.65,1.58,1.58,1.6,3,0.47140452079103173,True,True
+37_315473,37,315473,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.65,1.58,1.58,1.6,3,0.47140452079103173,True,True
+37_315473,37,315473,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.65,1.58,1.58,1.6,3,0.0,True,True
+37_315473,37,315473,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.65,1.58,1.58,1.6,3,0.496655480858378,True,True
+37_315473,37,315473,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.65,1.58,1.58,0.6,3,0.0,True,True
+51_2047159,51,2047159,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",0.6667,0.82,,1.0,3,0.41899350299921784,False,False
+51_2047159,51,2047159,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",0.6667,0.82,,0.7,3,0.0,False,False
+51_2047159,51,2047159,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",0.6667,0.82,,0.6,3,0.08164965809277258,False,False
+51_2047159,51,2047159,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",0.6667,0.82,,0.5,3,0.20548046676563253,False,False
+51_2047159,51,2047159,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",0.6667,0.82,,1.5,3,0.0,False,False
+51_2047159,51,2047159,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",0.6667,0.82,0.82,0.8,3,0.0,False,False
+51_2047159,51,2047159,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",0.6667,0.82,0.82,0.8,3,0.0,False,False
+51_2047159,51,2047159,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",0.6667,0.82,0.82,0.8,3,0.0,False,False
+51_2047159,51,2047159,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",0.6667,0.82,0.82,0.8,3,0.0,False,False
+51_2047159,51,2047159,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",0.6667,0.82,0.82,0.8,3,0.0,False,False
+34_1028589,34,1028589,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",0.6667,0.22,,1.3,3,0.36817870057290863,True,False
+34_1028589,34,1028589,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",0.6667,0.22,,1.0,3,0.3858612300930075,True,False
+34_1028589,34,1028589,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",0.6667,0.22,,0.7,3,0.0,True,False
+34_1028589,34,1028589,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",0.6667,0.22,,1.5,3,0.4921607686744467,True,False
+34_1028589,34,1028589,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",0.6667,0.22,,1.5,3,0.3299831645537222,True,False
+34_1028589,34,1028589,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",0.6667,0.22,0.22,0.2,3,0.0,True,False
+34_1028589,34,1028589,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",0.6667,0.22,0.22,0.2,3,0.0,True,False
+34_1028589,34,1028589,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",0.6667,0.22,0.22,0.2,3,0.00942809041582063,True,False
+34_1028589,34,1028589,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",0.6667,0.22,0.22,0.2,3,0.0,True,False
+34_1028589,34,1028589,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",0.6667,0.22,0.22,0.2,3,0.0,True,False
+41_1392261,41,1392261,named_entity,original_history,named_entity__original_history,HOME AND KITCHEN II,0.6667,-0.9,,3.0,3,1.699673171197595,False,True
+41_1392261,41,1392261,named_entity,shuffled_history,named_entity__shuffled_history,HOME AND KITCHEN II,0.6667,-0.9,,9.0,3,20.138409955990955,False,True
+41_1392261,41,1392261,named_entity,other_series_history,named_entity__other_series_history,HOME AND KITCHEN II,0.6667,-0.9,,1.0,3,0.14142135623730953,False,True
+41_1392261,41,1392261,named_entity,mean_only_history,named_entity__mean_only_history,HOME AND KITCHEN II,0.6667,-0.9,,5.9,3,0.0,False,True
+41_1392261,41,1392261,named_entity,no_history,named_entity__no_history,HOME AND KITCHEN II,0.6667,-0.9,,1.5,3,0.0,False,True
+41_1392261,41,1392261,series_hint,original_history,series_hint__original_history,HOME AND KITCHEN II,0.6667,-0.9,-0.9,-0.9,3,0.0,False,True
+41_1392261,41,1392261,series_hint,shuffled_history,series_hint__shuffled_history,HOME AND KITCHEN II,0.6667,-0.9,-0.9,-0.9,3,0.18856180831641267,False,True
+41_1392261,41,1392261,series_hint,other_series_history,series_hint__other_series_history,HOME AND KITCHEN II,0.6667,-0.9,-0.9,-0.9,3,0.0,False,True
+41_1392261,41,1392261,series_hint,mean_only_history,series_hint__mean_only_history,HOME AND KITCHEN II,0.6667,-0.9,-0.9,-0.9,3,0.0,False,True
+41_1392261,41,1392261,series_hint,no_history,series_hint__no_history,HOME AND KITCHEN II,0.6667,-0.9,-0.9,-0.9,3,0.0,False,True
+49_315473,49,315473,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.6667,-0.71,,1.5,3,0.3299831645537222,True,True
+49_315473,49,315473,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.6667,-0.71,,1.0,3,0.3299831645537222,True,True
+49_315473,49,315473,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.6667,-0.71,,0.7,3,0.4714045207910317,True,True
+49_315473,49,315473,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.6667,-0.71,,0.6,3,0.4496912521077347,True,True
+49_315473,49,315473,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.6667,-0.71,,1.5,3,0.14142135623730953,True,True
+49_315473,49,315473,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.6667,-0.71,-0.71,-0.7,3,0.09428090415820632,True,True
+49_315473,49,315473,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.6667,-0.71,-0.71,-0.7,3,0.0,True,True
+49_315473,49,315473,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.6667,-0.71,-0.71,-0.5,3,0.20548046676563253,True,True
+49_315473,49,315473,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.6667,-0.71,-0.71,-0.7,3,0.0,True,True
+49_315473,49,315473,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.6667,-0.71,-0.71,-0.7,3,0.0,True,True
+29_153398,29,153398,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.6667,2.09,,1.0,3,0.408248290463863,False,True
+29_153398,29,153398,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.6667,2.09,,1.0,3,0.408248290463863,False,True
+29_153398,29,153398,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.6667,2.09,,1.5,3,0.3299831645537222,False,True
+29_153398,29,153398,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.6667,2.09,,1.5,3,0.9177266598624136,False,True
+29_153398,29,153398,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.6667,2.09,,1.5,3,0.0,False,True
+29_153398,29,153398,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.6667,2.09,2.09,1.1,3,0.4714045207910317,False,True
+29_153398,29,153398,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.6667,2.09,2.09,1.0,3,0.5185449728701349,False,True
+29_153398,29,153398,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.6667,2.09,2.09,1.0,3,0.0,False,True
+29_153398,29,153398,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.6667,2.09,2.09,1.0,3,0.0,False,True
+29_153398,29,153398,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.6667,2.09,2.09,3.2,3,0.0,False,True
+51_464385,51,464385,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.75,0.41,,0.4,3,0.0,True,False
+51_464385,51,464385,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.75,0.41,,0.4,3,0.0,True,False
+51_464385,51,464385,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.75,0.41,,0.8,3,0.2867441755680875,True,False
+51_464385,51,464385,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.75,0.41,,0.2,3,0.18856180831641267,True,False
+51_464385,51,464385,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.75,0.41,,1.2,3,0.14142135623730953,True,False
+51_464385,51,464385,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.75,0.41,0.41,0.4,3,0.0,True,False
+51_464385,51,464385,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.75,0.41,0.41,0.4,3,0.0,True,False
+51_464385,51,464385,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.75,0.41,0.41,0.4,3,0.0,True,False
+51_464385,51,464385,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.75,0.41,0.41,0.4,3,0.0,True,False
+51_464385,51,464385,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.75,0.41,0.41,0.4,3,0.0,True,False
+36_858872,36,858872,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.75,0.7,,0.5,3,0.23570226039551584,False,True
+36_858872,36,858872,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.75,0.7,,1.0,3,0.23570226039551584,False,True
+36_858872,36,858872,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.75,0.7,,0.6,3,0.04714045207910316,False,True
+36_858872,36,858872,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.75,0.7,,0.2,3,0.18856180831641267,False,True
+36_858872,36,858872,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.75,0.7,,1.5,3,0.0,False,True
+36_858872,36,858872,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.75,0.7,0.7,0.7,3,0.0,False,True
+36_858872,36,858872,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.75,0.7,0.7,0.7,3,0.0,False,True
+36_858872,36,858872,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.75,0.7,0.7,0.7,3,0.0,False,True
+36_858872,36,858872,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.75,0.7,0.7,0.7,3,0.4714045207910317,False,True
+36_858872,36,858872,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.75,0.7,0.7,0.7,3,0.0,False,True
+41_830806,41,830806,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.75,1.11,,0.5,3,0.0,True,False
+41_830806,41,830806,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.75,1.11,,0.5,3,0.14142135623730953,True,False
+41_830806,41,830806,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.75,1.11,,1.5,3,0.0,True,False
+41_830806,41,830806,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.75,1.11,,1.5,3,0.9177266598624136,True,False
+41_830806,41,830806,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.75,1.11,,1.5,3,0.14142135623730953,True,False
+41_830806,41,830806,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.75,1.11,1.11,0.6,3,0.04714045207910316,True,False
+41_830806,41,830806,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.75,1.11,1.11,0.5,3,0.1247219128924647,True,False
+41_830806,41,830806,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.75,1.11,1.11,1.1,3,0.28284271247461906,True,False
+41_830806,41,830806,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.75,1.11,1.11,1.1,3,0.47140452079103173,True,False
+41_830806,41,830806,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.75,1.11,1.11,0.1,3,0.1414213562373095,True,False
+37_968936,37,968936,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",0.7889,-0.59,,0.8,3,0.5887840577551898,True,False
+37_968936,37,968936,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",0.7889,-0.59,,0.4,3,0.2160246899469287,True,False
+37_968936,37,968936,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",0.7889,-0.59,,1.5,3,0.408248290463863,True,False
+37_968936,37,968936,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",0.7889,-0.59,,0.3,3,0.04714045207910316,True,False
+37_968936,37,968936,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",0.7889,-0.59,,1.2,3,0.23570226039551584,True,False
+37_968936,37,968936,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",0.7889,-0.59,-0.59,-0.6,3,0.0,True,False
+37_968936,37,968936,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",0.7889,-0.59,-0.59,-0.6,3,0.0,True,False
+37_968936,37,968936,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",0.7889,-0.59,-0.59,-0.6,3,0.0,True,False
+37_968936,37,968936,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",0.7889,-0.59,-0.59,-0.2,3,0.21602468994692867,True,False
+37_968936,37,968936,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",0.7889,-0.59,-0.59,-0.6,3,0.0,True,False
+8_1038946,8,1038946,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,0.9625,0.89,,0.8,3,0.0,True,True
+8_1038946,8,1038946,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,0.9625,0.89,,0.8,3,0.04714045207910321,True,True
+8_1038946,8,1038946,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,0.9625,0.89,,1.5,3,0.23570226039551584,True,True
+8_1038946,8,1038946,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,0.9625,0.89,,0.6,3,0.21602468994692867,True,True
+8_1038946,8,1038946,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,0.9625,0.89,,1.2,3,0.2867441755680875,True,True
+8_1038946,8,1038946,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,0.9625,0.89,0.89,0.9,3,0.0,True,True
+8_1038946,8,1038946,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,0.9625,0.89,0.89,0.9,3,0.0,True,True
+8_1038946,8,1038946,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,0.9625,0.89,0.89,0.9,3,0.004714045207910321,True,True
+8_1038946,8,1038946,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,0.9625,0.89,0.89,0.9,3,0.0,True,True
+8_1038946,8,1038946,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,0.9625,0.89,0.89,0.9,3,0.0,True,True
+20_1373408,20,1373408,named_entity,original_history,named_entity__original_history,HOME AND KITCHEN I,1.0,0.04,,1.5,3,0.4714045207910317,False,False
+20_1373408,20,1373408,named_entity,shuffled_history,named_entity__shuffled_history,HOME AND KITCHEN I,1.0,0.04,,1.5,3,0.4714045207910317,False,False
+20_1373408,20,1373408,named_entity,other_series_history,named_entity__other_series_history,HOME AND KITCHEN I,1.0,0.04,,0.7,3,0.04714045207910316,False,False
+20_1373408,20,1373408,named_entity,mean_only_history,named_entity__mean_only_history,HOME AND KITCHEN I,1.0,0.04,,0.3,3,0.0,False,False
+20_1373408,20,1373408,named_entity,no_history,named_entity__no_history,HOME AND KITCHEN I,1.0,0.04,,1.5,3,0.4714045207910317,False,False
+20_1373408,20,1373408,series_hint,original_history,series_hint__original_history,HOME AND KITCHEN I,1.0,0.04,0.04,0.5,3,0.0,False,False
+20_1373408,20,1373408,series_hint,shuffled_history,series_hint__shuffled_history,HOME AND KITCHEN I,1.0,0.04,0.04,0.5,3,0.23570226039551584,False,False
+20_1373408,20,1373408,series_hint,other_series_history,series_hint__other_series_history,HOME AND KITCHEN I,1.0,0.04,0.04,0.0,3,0.282842712474619,False,False
+20_1373408,20,1373408,series_hint,mean_only_history,series_hint__mean_only_history,HOME AND KITCHEN I,1.0,0.04,0.04,0.3,3,0.0,False,False
+20_1373408,20,1373408,series_hint,no_history,series_hint__no_history,HOME AND KITCHEN I,1.0,0.04,0.04,0.0,3,0.18856180831641267,False,False
+23_1303141,23,1303141,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,1.0,-0.04,,1.5,3,0.4714045207910317,False,False
+23_1303141,23,1303141,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,1.0,-0.04,,1.5,3,0.0,False,False
+23_1303141,23,1303141,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,1.0,-0.04,,1.5,3,0.0,False,False
+23_1303141,23,1303141,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,1.0,-0.04,,0.8,3,0.0,False,False
+23_1303141,23,1303141,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,1.0,-0.04,,1.5,3,0.0,False,False
+23_1303141,23,1303141,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,1.0,-0.04,-0.04,-0.1,3,0.08164965809277261,False,False
+23_1303141,23,1303141,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,1.0,-0.04,-0.04,-0.1,3,0.21602468994692867,False,False
+23_1303141,23,1303141,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,1.0,-0.04,-0.04,-0.3,3,0.12472191289246472,False,False
+23_1303141,23,1303141,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,1.0,-0.04,-0.04,-0.3,3,0.1699673171197595,False,False
+23_1303141,23,1303141,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,1.0,-0.04,-0.04,-0.04,3,0.018856180831641266,False,False
+42_1412392,42,1412392,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",1.0,2.26,,0.5,3,0.4714045207910317,False,True
+42_1412392,42,1412392,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",1.0,2.26,,0.5,3,0.4714045207910317,False,True
+42_1412392,42,1412392,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",1.0,2.26,,0.5,3,0.0,False,True
+42_1412392,42,1412392,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",1.0,2.26,,0.3,3,0.16329931618554522,False,True
+42_1412392,42,1412392,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",1.0,2.26,,1.5,3,0.0,False,True
+42_1412392,42,1412392,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",1.0,2.26,2.26,1.3,3,0.09428090415820632,False,True
+42_1412392,42,1412392,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",1.0,2.26,2.26,1.5,3,0.4320493798938573,False,True
+42_1412392,42,1412392,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",1.0,2.26,2.26,1.1,3,0.09428090415820632,False,True
+42_1412392,42,1412392,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",1.0,2.26,2.26,2.3,3,0.5656854249492379,False,True
+42_1412392,42,1412392,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",1.0,2.26,2.26,3.5,3,0.0,False,True
+19_812757,19,812757,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",1.0,0.59,,1.7,3,2.2691163233490013,False,False
+19_812757,19,812757,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",1.0,0.59,,12.0,3,3.227313984655902,False,False
+19_812757,19,812757,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",1.0,0.59,,1.0,3,0.23570226039551584,False,False
+19_812757,19,812757,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",1.0,0.59,,2.5,3,0.0,False,False
+19_812757,19,812757,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",1.0,0.59,,1.5,3,0.37712361663282534,False,False
+19_812757,19,812757,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",1.0,0.59,0.59,0.6,3,0.0,False,False
+19_812757,19,812757,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",1.0,0.59,0.59,0.6,3,0.0,False,False
+19_812757,19,812757,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",1.0,0.59,0.59,0.6,3,0.0,False,False
+19_812757,19,812757,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",1.0,0.59,0.59,2.0,3,0.6236095644623235,False,False
+19_812757,19,812757,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",1.0,0.59,0.59,0.6,3,0.0,False,False
+28_407500,28,407500,named_entity,original_history,named_entity__original_history,EGGS,1.0,0.99,,5.5,3,2.4041630560342617,True,True
+28_407500,28,407500,named_entity,shuffled_history,named_entity__shuffled_history,EGGS,1.0,0.99,,0.4,3,2.4526629518862872,True,True
+28_407500,28,407500,named_entity,other_series_history,named_entity__other_series_history,EGGS,1.0,0.99,,0.5,3,0.1414213562373095,True,True
+28_407500,28,407500,named_entity,mean_only_history,named_entity__mean_only_history,EGGS,1.0,0.99,,0.5,3,0.0,True,True
+28_407500,28,407500,named_entity,no_history,named_entity__no_history,EGGS,1.0,0.99,,1.5,3,0.565685424949238,True,True
+28_407500,28,407500,series_hint,original_history,series_hint__original_history,EGGS,1.0,0.99,0.99,0.99,3,0.0,True,True
+28_407500,28,407500,series_hint,shuffled_history,series_hint__shuffled_history,EGGS,1.0,0.99,0.99,0.99,3,0.0,True,True
+28_407500,28,407500,series_hint,other_series_history,series_hint__other_series_history,EGGS,1.0,0.99,0.99,0.99,3,0.0,True,True
+28_407500,28,407500,series_hint,mean_only_history,series_hint__mean_only_history,EGGS,1.0,0.99,0.99,0.5,3,0.0,True,True
+28_407500,28,407500,series_hint,no_history,series_hint__no_history,EGGS,1.0,0.99,0.99,0.99,3,0.2309882151876055,True,True
+49_1379210,49,1379210,named_entity,original_history,named_entity__original_history,HOME AND KITCHEN I,1.0,1.44,,1.0,3,0.9428090415820634,False,True
+49_1379210,49,1379210,named_entity,shuffled_history,named_entity__shuffled_history,HOME AND KITCHEN I,1.0,1.44,,1.0,3,0.09428090415820632,False,True
+49_1379210,49,1379210,named_entity,other_series_history,named_entity__other_series_history,HOME AND KITCHEN I,1.0,1.44,,0.7,3,0.09428090415820632,False,True
+49_1379210,49,1379210,named_entity,mean_only_history,named_entity__mean_only_history,HOME AND KITCHEN I,1.0,1.44,,0.3,3,0.0,False,True
+49_1379210,49,1379210,named_entity,no_history,named_entity__no_history,HOME AND KITCHEN I,1.0,1.44,,1.2,3,0.14142135623730953,False,True
+49_1379210,49,1379210,series_hint,original_history,series_hint__original_history,HOME AND KITCHEN I,1.0,1.44,1.44,1.4,3,0.42426406871192845,False,True
+49_1379210,49,1379210,series_hint,shuffled_history,series_hint__shuffled_history,HOME AND KITCHEN I,1.0,1.44,1.44,1.4,3,0.42426406871192845,False,True
+49_1379210,49,1379210,series_hint,other_series_history,series_hint__other_series_history,HOME AND KITCHEN I,1.0,1.44,1.44,1.4,3,0.0,False,True
+49_1379210,49,1379210,series_hint,mean_only_history,series_hint__mean_only_history,HOME AND KITCHEN I,1.0,1.44,1.44,0.4,3,0.26246692913372704,False,True
+49_1379210,49,1379210,series_hint,no_history,series_hint__no_history,HOME AND KITCHEN I,1.0,1.44,1.44,0.4,3,0.0,False,True
+45_1972763,45,1972763,named_entity,original_history,named_entity__original_history,HOME AND KITCHEN I,1.0,1.8,,2.0,3,0.8498365855987975,False,False
+45_1972763,45,1972763,named_entity,shuffled_history,named_entity__shuffled_history,HOME AND KITCHEN I,1.0,1.8,,2.0,3,0.6236095644623235,False,False
+45_1972763,45,1972763,named_entity,other_series_history,named_entity__other_series_history,HOME AND KITCHEN I,1.0,1.8,,2.0,3,0.23570226039551584,False,False
+45_1972763,45,1972763,named_entity,mean_only_history,named_entity__mean_only_history,HOME AND KITCHEN I,1.0,1.8,,0.1,3,1.367073110293992,False,False
+45_1972763,45,1972763,named_entity,no_history,named_entity__no_history,HOME AND KITCHEN I,1.0,1.8,,1.5,3,0.565685424949238,False,False
+45_1972763,45,1972763,series_hint,original_history,series_hint__original_history,HOME AND KITCHEN I,1.0,1.8,1.8,1.8,3,0.4714045207910317,False,False
+45_1972763,45,1972763,series_hint,shuffled_history,series_hint__shuffled_history,HOME AND KITCHEN I,1.0,1.8,1.8,1.8,3,0.4714045207910317,False,False
+45_1972763,45,1972763,series_hint,other_series_history,series_hint__other_series_history,HOME AND KITCHEN I,1.0,1.8,1.8,1.8,3,0.0,False,False
+45_1972763,45,1972763,series_hint,mean_only_history,series_hint__mean_only_history,HOME AND KITCHEN I,1.0,1.8,1.8,1.8,3,0.4714045207910317,False,False
+45_1972763,45,1972763,series_hint,no_history,series_hint__no_history,HOME AND KITCHEN I,1.0,1.8,1.8,1.8,3,0.0,False,False
+8_165718,8,165718,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,1.4583,0.96,,1.5,3,0.4714045207910317,True,True
+8_165718,8,165718,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,1.4583,0.96,,1.0,3,0.408248290463863,True,True
+8_165718,8,165718,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,1.4583,0.96,,1.0,3,0.23570226039551584,True,True
+8_165718,8,165718,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,1.4583,0.96,,1.0,3,0.0,True,True
+8_165718,8,165718,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,1.4583,0.96,,1.5,3,0.14142135623730953,True,True
+8_165718,8,165718,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,1.4583,0.96,0.96,0.96,3,0.0,True,True
+8_165718,8,165718,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,1.4583,0.96,0.96,0.96,3,0.21684607956387456,True,True
+8_165718,8,165718,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,1.4583,0.96,0.96,0.96,3,0.0,True,True
+8_165718,8,165718,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,1.4583,0.96,0.96,0.9,3,0.21602468994692867,True,True
+8_165718,8,165718,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,1.4583,0.96,0.96,0.96,3,0.0,True,True
+45_1940454,45,1940454,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,1.5,-0.68,,1.5,3,0.23570226039551584,False,True
+45_1940454,45,1940454,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,1.5,-0.68,,1.5,3,0.23570226039551584,False,True
+45_1940454,45,1940454,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,1.5,-0.68,,1.5,3,0.408248290463863,False,True
+45_1940454,45,1940454,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,1.5,-0.68,,1.0,3,0.408248290463863,False,True
+45_1940454,45,1940454,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,1.5,-0.68,,1.5,3,0.0,False,True
+45_1940454,45,1940454,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,1.5,-0.68,-0.68,-0.7,3,0.0,False,True
+45_1940454,45,1940454,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,1.5,-0.68,-0.68,-0.7,3,0.09428090415820632,False,True
+45_1940454,45,1940454,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,1.5,-0.68,-0.68,-0.7,3,0.0,False,True
+45_1940454,45,1940454,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,1.5,-0.68,-0.68,-0.7,3,0.0,False,True
+45_1940454,45,1940454,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,1.5,-0.68,-0.68,-0.7,3,0.0,False,True
+20_1004551,20,1004551,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",1.5,1.85,,1.7,3,0.3299831645537222,False,True
+20_1004551,20,1004551,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",1.5,1.85,,1.7,3,0.3559026084010437,False,True
+20_1004551,20,1004551,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",1.5,1.85,,0.8,3,0.282842712474619,False,True
+20_1004551,20,1004551,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",1.5,1.85,,1.0,3,0.0,False,True
+20_1004551,20,1004551,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",1.5,1.85,,1.5,3,0.0,False,True
+20_1004551,20,1004551,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",1.5,1.85,1.85,1.8,3,0.4496912521077347,False,True
+20_1004551,20,1004551,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",1.5,1.85,1.85,1.9,3,0.047140452079103105,False,True
+20_1004551,20,1004551,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",1.5,1.85,1.85,1.9,3,0.0,False,True
+20_1004551,20,1004551,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",1.5,1.85,1.85,2.7,3,0.4027681991198191,False,True
+20_1004551,20,1004551,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",1.5,1.85,1.85,4.6,3,1.2727922061357855,False,True
+45_1373408,45,1373408,named_entity,original_history,named_entity__original_history,HOME AND KITCHEN I,1.5,0.94,,3.0,3,1.0801234497346435,False,False
+45_1373408,45,1373408,named_entity,shuffled_history,named_entity__shuffled_history,HOME AND KITCHEN I,1.5,0.94,,1.5,3,1.247219128924647,False,False
+45_1373408,45,1373408,named_entity,other_series_history,named_entity__other_series_history,HOME AND KITCHEN I,1.5,0.94,,1.5,3,0.0,False,False
+45_1373408,45,1373408,named_entity,mean_only_history,named_entity__mean_only_history,HOME AND KITCHEN I,1.5,0.94,,0.1,3,0.0,False,False
+45_1373408,45,1373408,named_entity,no_history,named_entity__no_history,HOME AND KITCHEN I,1.5,0.94,,1.5,3,0.0,False,False
+45_1373408,45,1373408,series_hint,original_history,series_hint__original_history,HOME AND KITCHEN I,1.5,0.94,0.94,0.9,3,0.018856180831641232,False,False
+45_1373408,45,1373408,series_hint,shuffled_history,series_hint__shuffled_history,HOME AND KITCHEN I,1.5,0.94,0.94,0.9,3,0.0,False,False
+45_1373408,45,1373408,series_hint,other_series_history,series_hint__other_series_history,HOME AND KITCHEN I,1.5,0.94,0.94,0.9,3,0.0,False,False
+45_1373408,45,1373408,series_hint,mean_only_history,series_hint__mean_only_history,HOME AND KITCHEN I,1.5,0.94,0.94,0.9,3,0.0,False,False
+45_1373408,45,1373408,series_hint,no_history,series_hint__no_history,HOME AND KITCHEN I,1.5,0.94,0.94,0.9,3,0.0,False,False
+2_594045,2,594045,named_entity,original_history,named_entity__original_history,BREAD/BAKERY,1.5952,-0.44,,7.8,3,0.14142135623730942,True,True
+2_594045,2,594045,named_entity,shuffled_history,named_entity__shuffled_history,BREAD/BAKERY,1.5952,-0.44,,7.8,3,1.4142135623730951,True,True
+2_594045,2,594045,named_entity,other_series_history,named_entity__other_series_history,BREAD/BAKERY,1.5952,-0.44,,0.6,3,0.1699673171197595,True,True
+2_594045,2,594045,named_entity,mean_only_history,named_entity__mean_only_history,BREAD/BAKERY,1.5952,-0.44,,0.5,3,1.1785113019775793,True,True
+2_594045,2,594045,named_entity,no_history,named_entity__no_history,BREAD/BAKERY,1.5952,-0.44,,1.5,3,0.14142135623730953,True,True
+2_594045,2,594045,series_hint,original_history,series_hint__original_history,BREAD/BAKERY,1.5952,-0.44,-0.44,-0.4,3,0.04714045207910316,True,True
+2_594045,2,594045,series_hint,shuffled_history,series_hint__shuffled_history,BREAD/BAKERY,1.5952,-0.44,-0.44,-0.4,3,0.0,True,True
+2_594045,2,594045,series_hint,other_series_history,series_hint__other_series_history,BREAD/BAKERY,1.5952,-0.44,-0.44,-0.4,3,0.0,True,True
+2_594045,2,594045,series_hint,mean_only_history,series_hint__mean_only_history,BREAD/BAKERY,1.5952,-0.44,-0.44,-0.1,3,0.0,True,True
+2_594045,2,594045,series_hint,no_history,series_hint__no_history,BREAD/BAKERY,1.5952,-0.44,-0.44,-0.4,3,0.0,True,True
+37_1370542,37,1370542,named_entity,original_history,named_entity__original_history,HOME AND KITCHEN I,1.75,2.16,,1.4,3,1.1115554667022045,False,True
+37_1370542,37,1370542,named_entity,shuffled_history,named_entity__shuffled_history,HOME AND KITCHEN I,1.75,2.16,,1.4,3,0.0,False,True
+37_1370542,37,1370542,named_entity,other_series_history,named_entity__other_series_history,HOME AND KITCHEN I,1.75,2.16,,0.6,3,0.09428090415820632,False,True
+37_1370542,37,1370542,named_entity,mean_only_history,named_entity__mean_only_history,HOME AND KITCHEN I,1.75,2.16,,0.5,3,0.1699673171197595,False,True
+37_1370542,37,1370542,named_entity,no_history,named_entity__no_history,HOME AND KITCHEN I,1.75,2.16,,1.2,3,0.14142135623730953,False,True
+37_1370542,37,1370542,series_hint,original_history,series_hint__original_history,HOME AND KITCHEN I,1.75,2.16,2.16,2.2,3,0.0,False,True
+37_1370542,37,1370542,series_hint,shuffled_history,series_hint__shuffled_history,HOME AND KITCHEN I,1.75,2.16,2.16,2.2,3,0.0,False,True
+37_1370542,37,1370542,series_hint,other_series_history,series_hint__other_series_history,HOME AND KITCHEN I,1.75,2.16,2.16,0.4,3,0.0,False,True
+37_1370542,37,1370542,series_hint,mean_only_history,series_hint__mean_only_history,HOME AND KITCHEN I,1.75,2.16,2.16,0.4,3,0.0,False,True
+37_1370542,37,1370542,series_hint,no_history,series_hint__no_history,HOME AND KITCHEN I,1.75,2.16,2.16,2.2,3,0.5185449728701349,False,True
+53_1004551,53,1004551,named_entity,original_history,named_entity__original_history,"LIQUOR,WINE,BEER",1.75,1.21,,1.5,3,0.23570226039551584,False,True
+53_1004551,53,1004551,named_entity,shuffled_history,named_entity__shuffled_history,"LIQUOR,WINE,BEER",1.75,1.21,,1.4,3,0.9285592184789413,False,True
+53_1004551,53,1004551,named_entity,other_series_history,named_entity__other_series_history,"LIQUOR,WINE,BEER",1.75,1.21,,1.5,3,0.4714045207910317,False,True
+53_1004551,53,1004551,named_entity,mean_only_history,named_entity__mean_only_history,"LIQUOR,WINE,BEER",1.75,1.21,,0.7,3,0.0,False,True
+53_1004551,53,1004551,named_entity,no_history,named_entity__no_history,"LIQUOR,WINE,BEER",1.75,1.21,,1.5,3,0.0,False,True
+53_1004551,53,1004551,series_hint,original_history,series_hint__original_history,"LIQUOR,WINE,BEER",1.75,1.21,1.21,1.2,3,0.0,False,True
+53_1004551,53,1004551,series_hint,shuffled_history,series_hint__shuffled_history,"LIQUOR,WINE,BEER",1.75,1.21,1.21,1.2,3,0.004714045207910321,False,True
+53_1004551,53,1004551,series_hint,other_series_history,series_hint__other_series_history,"LIQUOR,WINE,BEER",1.75,1.21,1.21,1.2,3,0.0,False,True
+53_1004551,53,1004551,series_hint,mean_only_history,series_hint__mean_only_history,"LIQUOR,WINE,BEER",1.75,1.21,1.21,1.7,3,0.0,False,True
+53_1004551,53,1004551,series_hint,no_history,series_hint__no_history,"LIQUOR,WINE,BEER",1.75,1.21,1.21,1.2,3,0.0,False,True
+40_514327,40,514327,named_entity,original_history,named_entity__original_history,PREPARED FOODS,2.0,1.77,,0.7,3,0.28284271247461906,True,True
+40_514327,40,514327,named_entity,shuffled_history,named_entity__shuffled_history,PREPARED FOODS,2.0,1.77,,0.8,3,0.3559026084010437,True,True
+40_514327,40,514327,named_entity,other_series_history,named_entity__other_series_history,PREPARED FOODS,2.0,1.77,,2.0,3,0.408248290463863,True,True
+40_514327,40,514327,named_entity,mean_only_history,named_entity__mean_only_history,PREPARED FOODS,2.0,1.77,,0.6,3,0.0,True,True
+40_514327,40,514327,named_entity,no_history,named_entity__no_history,PREPARED FOODS,2.0,1.77,,1.5,3,0.23570226039551584,True,True
+40_514327,40,514327,series_hint,original_history,series_hint__original_history,PREPARED FOODS,2.0,1.77,1.77,1.8,3,0.0,True,True
+40_514327,40,514327,series_hint,shuffled_history,series_hint__shuffled_history,PREPARED FOODS,2.0,1.77,1.77,1.8,3,0.0,True,True
+40_514327,40,514327,series_hint,other_series_history,series_hint__other_series_history,PREPARED FOODS,2.0,1.77,1.77,1.8,3,0.0,True,True
+40_514327,40,514327,series_hint,mean_only_history,series_hint__mean_only_history,PREPARED FOODS,2.0,1.77,1.77,0.7,3,0.5436502143433364,True,True
+40_514327,40,514327,series_hint,no_history,series_hint__no_history,PREPARED FOODS,2.0,1.77,1.77,1.1,3,0.3299831645537222,True,True
+23_2081050,23,2081050,named_entity,original_history,named_entity__original_history,PREPARED FOODS,2.0,1.85,,1.5,3,0.16329931618554516,False,False
+23_2081050,23,2081050,named_entity,shuffled_history,named_entity__shuffled_history,PREPARED FOODS,2.0,1.85,,1.0,3,0.24494897427831785,False,False
+23_2081050,23,2081050,named_entity,other_series_history,named_entity__other_series_history,PREPARED FOODS,2.0,1.85,,1.2,3,0.2867441755680875,False,False
+23_2081050,23,2081050,named_entity,mean_only_history,named_entity__mean_only_history,PREPARED FOODS,2.0,1.85,,0.3,3,0.1414213562373095,False,False
+23_2081050,23,2081050,named_entity,no_history,named_entity__no_history,PREPARED FOODS,2.0,1.85,,1.5,3,0.0,False,False
+23_2081050,23,2081050,series_hint,original_history,series_hint__original_history,PREPARED FOODS,2.0,1.85,1.85,1.9,3,0.0,False,False
+23_2081050,23,2081050,series_hint,shuffled_history,series_hint__shuffled_history,PREPARED FOODS,2.0,1.85,1.85,1.9,3,0.0,False,False
+23_2081050,23,2081050,series_hint,other_series_history,series_hint__other_series_history,PREPARED FOODS,2.0,1.85,1.85,1.9,3,0.0235702260395515,False,False
+23_2081050,23,2081050,series_hint,mean_only_history,series_hint__mean_only_history,PREPARED FOODS,2.0,1.85,1.85,1.9,3,0.09428090415820632,False,False
+23_2081050,23,2081050,series_hint,no_history,series_hint__no_history,PREPARED FOODS,2.0,1.85,1.85,1.9,3,0.0,False,False
+46_410866,46,410866,named_entity,original_history,named_entity__original_history,PREPARED FOODS,2.2,-0.67,,0.8,3,0.3559026084010437,True,True
+46_410866,46,410866,named_entity,shuffled_history,named_entity__shuffled_history,PREPARED FOODS,2.2,-0.67,,1.2,3,0.2867441755680875,True,True
+46_410866,46,410866,named_entity,other_series_history,named_entity__other_series_history,PREPARED FOODS,2.2,-0.67,,1.5,3,0.14142135623730953,True,True
+46_410866,46,410866,named_entity,mean_only_history,named_entity__mean_only_history,PREPARED FOODS,2.2,-0.67,,0.9,3,0.0,True,True
+46_410866,46,410866,named_entity,no_history,named_entity__no_history,PREPARED FOODS,2.2,-0.67,,1.5,3,0.14142135623730953,True,True
+46_410866,46,410866,series_hint,original_history,series_hint__original_history,PREPARED FOODS,2.2,-0.67,-0.67,-0.7,3,0.0,True,True
+46_410866,46,410866,series_hint,shuffled_history,series_hint__shuffled_history,PREPARED FOODS,2.2,-0.67,-0.67,-0.7,3,0.0,True,True
+46_410866,46,410866,series_hint,other_series_history,series_hint__other_series_history,PREPARED FOODS,2.2,-0.67,-0.67,-0.7,3,0.0,True,True
+46_410866,46,410866,series_hint,mean_only_history,series_hint__mean_only_history,PREPARED FOODS,2.2,-0.67,-0.67,-0.7,3,0.0,True,True
+46_410866,46,410866,series_hint,no_history,series_hint__no_history,PREPARED FOODS,2.2,-0.67,-0.67,-0.7,3,0.0,True,True
+11_885543,11,885543,named_entity,original_history,named_entity__original_history,PREPARED FOODS,2.25,3.21,,2.4,3,0.3399346342395189,True,True
+11_885543,11,885543,named_entity,shuffled_history,named_entity__shuffled_history,PREPARED FOODS,2.25,3.21,,1.2,3,0.679869268479038,True,True
+11_885543,11,885543,named_entity,other_series_history,named_entity__other_series_history,PREPARED FOODS,2.25,3.21,,0.7,3,0.24944382578492943,True,True
+11_885543,11,885543,named_entity,mean_only_history,named_entity__mean_only_history,PREPARED FOODS,2.25,3.21,,1.1,3,0.0,True,True
+11_885543,11,885543,named_entity,no_history,named_entity__no_history,PREPARED FOODS,2.25,3.21,,1.5,3,0.14142135623730953,True,True
+11_885543,11,885543,series_hint,original_history,series_hint__original_history,PREPARED FOODS,2.25,3.21,3.21,3.2,3,0.0,True,True
+11_885543,11,885543,series_hint,shuffled_history,series_hint__shuffled_history,PREPARED FOODS,2.25,3.21,3.21,3.2,3,0.0,True,True
+11_885543,11,885543,series_hint,other_series_history,series_hint__other_series_history,PREPARED FOODS,2.25,3.21,3.21,0.6,3,1.2256517540566825,True,True
+11_885543,11,885543,series_hint,mean_only_history,series_hint__mean_only_history,PREPARED FOODS,2.25,3.21,3.21,0.6,3,0.5185449728701348,True,True
+11_885543,11,885543,series_hint,no_history,series_hint__no_history,PREPARED FOODS,2.25,3.21,3.21,2.2,3,0.0,True,True
+33_1576321,33,1576321,named_entity,original_history,named_entity__original_history,CELEBRATION,2.25,2.59,,1.5,3,0.0,False,True
+33_1576321,33,1576321,named_entity,shuffled_history,named_entity__shuffled_history,CELEBRATION,2.25,2.59,,1.5,3,0.23570226039551584,False,True
+33_1576321,33,1576321,named_entity,other_series_history,named_entity__other_series_history,CELEBRATION,2.25,2.59,,0.5,3,0.3559026084010437,False,True
+33_1576321,33,1576321,named_entity,mean_only_history,named_entity__mean_only_history,CELEBRATION,2.25,2.59,,1.5,3,0.0,False,True
+33_1576321,33,1576321,named_entity,no_history,named_entity__no_history,CELEBRATION,2.25,2.59,,1.5,3,0.9428090415820634,False,True
+33_1576321,33,1576321,series_hint,original_history,series_hint__original_history,CELEBRATION,2.25,2.59,2.59,1.6,3,0.6599663291074443,False,True
+33_1576321,33,1576321,series_hint,shuffled_history,series_hint__shuffled_history,CELEBRATION,2.25,2.59,2.59,1.6,3,0.28284271247461906,False,True
+33_1576321,33,1576321,series_hint,other_series_history,series_hint__other_series_history,CELEBRATION,2.25,2.59,2.59,2.6,3,0.7542472332656507,False,True
+33_1576321,33,1576321,series_hint,mean_only_history,series_hint__mean_only_history,CELEBRATION,2.25,2.59,2.59,2.6,3,0.6128258770283412,False,True
+33_1576321,33,1576321,series_hint,no_history,series_hint__no_history,CELEBRATION,2.25,2.59,2.59,4.2,3,0.0,False,True
+44_1717269,44,1717269,named_entity,original_history,named_entity__original_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,,10.0,3,4.478342947514801,False,True
+44_1717269,44,1717269,named_entity,shuffled_history,named_entity__shuffled_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,,0.5,3,5.892556509887896,False,True
+44_1717269,44,1717269,named_entity,other_series_history,named_entity__other_series_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,,0.7,3,0.43204937989385733,False,True
+44_1717269,44,1717269,named_entity,mean_only_history,named_entity__mean_only_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,,0.6,3,0.0,False,True
+44_1717269,44,1717269,named_entity,no_history,named_entity__no_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,,1.5,3,0.0,False,True
+44_1717269,44,1717269,series_hint,original_history,series_hint__original_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,0.89,0.9,3,0.0,False,True
+44_1717269,44,1717269,series_hint,shuffled_history,series_hint__shuffled_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,0.89,0.89,3,0.0,False,True
+44_1717269,44,1717269,series_hint,other_series_history,series_hint__other_series_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,0.89,0.9,3,0.0,False,True
+44_1717269,44,1717269,series_hint,mean_only_history,series_hint__mean_only_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,0.89,0.6,3,0.0,False,True
+44_1717269,44,1717269,series_hint,no_history,series_hint__no_history,SCHOOL AND OFFICE SUPPLIES,2.25,0.89,0.89,0.9,3,0.0,False,True
+1_315463,1,315463,named_entity,original_history,named_entity__original_history,GROCERY II,2.3333,1.88,,1.4,3,0.30912061651652345,True,True
+1_315463,1,315463,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY II,2.3333,1.88,,5.2,3,2.0992061991778384,True,True
+1_315463,1,315463,named_entity,other_series_history,named_entity__other_series_history,GROCERY II,2.3333,1.88,,0.5,3,0.21602468994692867,True,True
+1_315463,1,315463,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY II,2.3333,1.88,,1.3,3,0.0,True,True
+1_315463,1,315463,named_entity,no_history,named_entity__no_history,GROCERY II,2.3333,1.88,,1.5,3,0.04714045207910321,True,True
+1_315463,1,315463,series_hint,original_history,series_hint__original_history,GROCERY II,2.3333,1.88,1.88,1.9,3,0.42426406871192845,True,True
+1_315463,1,315463,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY II,2.3333,1.88,1.88,1.9,3,0.42426406871192845,True,True
+1_315463,1,315463,series_hint,other_series_history,series_hint__other_series_history,GROCERY II,2.3333,1.88,1.88,1.9,3,0.4714045207910316,True,True
+1_315463,1,315463,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY II,2.3333,1.88,1.88,1.3,3,0.8956685895029602,True,True
+1_315463,1,315463,series_hint,no_history,series_hint__no_history,GROCERY II,2.3333,1.88,1.88,1.9,3,0.0,True,True
+48_1503117,48,1503117,named_entity,original_history,named_entity__original_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,,3.5,3,1.0801234497346435,False,True
+48_1503117,48,1503117,named_entity,shuffled_history,named_entity__shuffled_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,,4.0,3,0.23570226039551584,False,True
+48_1503117,48,1503117,named_entity,other_series_history,named_entity__other_series_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,,1.5,3,0.0,False,True
+48_1503117,48,1503117,named_entity,mean_only_history,named_entity__mean_only_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,,0.3,3,0.0,False,True
+48_1503117,48,1503117,named_entity,no_history,named_entity__no_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,,1.5,3,0.04714045207910321,False,True
+48_1503117,48,1503117,series_hint,original_history,series_hint__original_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,2.9,2.9,3,0.7542472332656507,False,True
+48_1503117,48,1503117,series_hint,shuffled_history,series_hint__shuffled_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,2.9,2.9,3,0.0,False,True
+48_1503117,48,1503117,series_hint,other_series_history,series_hint__other_series_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,2.9,2.9,3,0.5185449728701348,False,True
+48_1503117,48,1503117,series_hint,mean_only_history,series_hint__mean_only_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,2.9,1.4,3,0.40824829046386296,False,True
+48_1503117,48,1503117,series_hint,no_history,series_hint__no_history,SCHOOL AND OFFICE SUPPLIES,2.5,2.9,2.9,4.8,3,0.0,False,True
+53_315463,53,315463,named_entity,original_history,named_entity__original_history,GROCERY II,2.8333,3.61,,0.7,3,0.2449489742783178,False,True
+53_315463,53,315463,named_entity,shuffled_history,named_entity__shuffled_history,GROCERY II,2.8333,3.61,,1.0,3,0.3299831645537222,False,True
+53_315463,53,315463,named_entity,other_series_history,named_entity__other_series_history,GROCERY II,2.8333,3.61,,2.5,3,1.0801234497346435,False,True
+53_315463,53,315463,named_entity,mean_only_history,named_entity__mean_only_history,GROCERY II,2.8333,3.61,,0.2,3,0.0,False,True
+53_315463,53,315463,named_entity,no_history,named_entity__no_history,GROCERY II,2.8333,3.61,,1.5,3,0.14142135623730953,False,True
+53_315463,53,315463,series_hint,original_history,series_hint__original_history,GROCERY II,2.8333,3.61,3.61,3.6,3,0.28284271247461906,False,True
+53_315463,53,315463,series_hint,shuffled_history,series_hint__shuffled_history,GROCERY II,2.8333,3.61,3.61,3.6,3,1.4142135623730951,False,True
+53_315463,53,315463,series_hint,other_series_history,series_hint__other_series_history,GROCERY II,2.8333,3.61,3.61,3.6,3,0.0,False,True
+53_315463,53,315463,series_hint,mean_only_history,series_hint__mean_only_history,GROCERY II,2.8333,3.61,3.61,1.2,3,0.0,False,True
+53_315463,53,315463,series_hint,no_history,series_hint__no_history,GROCERY II,2.8333,3.61,3.61,0.6,3,0.04714045207910316,False,True
+45_1730015,45,1730015,named_entity,original_history,named_entity__original_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,,1.4,3,8.06473806146238,False,True
+45_1730015,45,1730015,named_entity,shuffled_history,named_entity__shuffled_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,,21.4,3,0.2494438257849298,False,True
+45_1730015,45,1730015,named_entity,other_series_history,named_entity__other_series_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,,1.5,3,0.23570226039551584,False,True
+45_1730015,45,1730015,named_entity,mean_only_history,named_entity__mean_only_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,,6.5,3,0.0,False,True
+45_1730015,45,1730015,named_entity,no_history,named_entity__no_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,,1.2,3,0.04714045207910321,False,True
+45_1730015,45,1730015,series_hint,original_history,series_hint__original_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,6.15,6.1,3,0.3299831645537221,False,True
+45_1730015,45,1730015,series_hint,shuffled_history,series_hint__shuffled_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,6.15,6.1,3,0.04714045207910342,False,True
+45_1730015,45,1730015,series_hint,other_series_history,series_hint__other_series_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,6.15,6.2,3,0.0,False,True
+45_1730015,45,1730015,series_hint,mean_only_history,series_hint__mean_only_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,6.15,6.2,3,0.0,False,True
+45_1730015,45,1730015,series_hint,no_history,series_hint__no_history,SCHOOL AND OFFICE SUPPLIES,6.25,6.15,6.15,6.2,3,0.0,False,True

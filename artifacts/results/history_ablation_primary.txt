@@ -1,0 +1,27 @@
+==========================================================================
+HISTORY-SENSITIVITY SUPPRESSION TEST
+==========================================================================
+Input responses: history_ablation_responses.jsonl
+Parsed task-condition cells: 1000
+Complete paired tasks: 100
+
+Per-task sensitivity:
+  S_i = mean absolute prediction change from original history
+        across shuffled / other-series / mean-only / no-history.
+
+  mean S_i without numerical hint (named_entity) = 0.7667
+  mean S_i with numerical series hint           = 0.1691
+  hint/no-hint sensitivity ratio                = 0.2206
+  relative sensitivity reduction                = 77.9%
+
+Primary paired contrast:
+  suppression = mean[S_i(named_entity) - S_i(series_hint)]
+  estimate = 0.5976
+  95% task-bootstrap CI = [0.3657, 0.8794]
+  paired sign-flip p-value = 0.000100
+
+READING:
+  Numerical magnitude injection significantly reduces sensitivity
+  to the supplied history. This supports behavioural suppression of
+  the model's autonomous history-dependent contribution.
+==========================================================================

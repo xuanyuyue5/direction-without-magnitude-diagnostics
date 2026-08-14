@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments and local secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Raw or heavy local data
+data/raw/
+*.zip
+*.pkl
+*.parquet
+*.feather
+
+# Local run scratch files
+*.log
+artifacts/**/responses_DRYRUN*.jsonl
+artifacts/**/history_ablation_responses_DRYRUN*.jsonl
