@@ -109,16 +109,6 @@ def call_model(
                 )
                 return resp.choices[0].message.content, None
 
-            # anthropic
-            # NOTE: Opus 4.8 (and current-gen Claude models generally) run
-            # adaptive thinking by default, and the API REJECTS a non-default
-            # temperature while thinking is active (400 invalid_request_error:
-            # "temperature may only be set to 1 when thinking is enabled").
-            # Thinking cannot be disabled on this model family, so we omit
-            # temperature entirely rather than sending 0.7. Repeat-to-repeat
-            # variation for the R=3 median comes from the model's own decoding
-            # stochasticity, not from a temperature knob -- note this in the
-            # repository notes as a cross-provider caveat.
             resp = client.messages.create(
                 model=model,
                 max_tokens=max_tokens,
